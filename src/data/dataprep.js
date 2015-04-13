@@ -19,9 +19,11 @@ var groupedByQuestion = _.groupBy(noBlanks, function(row) {
   return row.QuestionText.split('. ')[0].trim();
 });
 
-var questionArray = _.values(groupedByQuestion);
+var filteredByQuestionType = _.filter(groupedByQuestion, function(question, id) {
+  return id.substring(0, 1) !== 'S';
+});
 
-var formattedRows = _.map(groupedByQuestion, function(question) {
+var formattedRows = _.map(filteredByQuestionType, function(question) {
   // Get question text
   var questionParts = question[0].QuestionText.split('. '),
       questionId = questionParts[0].trim();

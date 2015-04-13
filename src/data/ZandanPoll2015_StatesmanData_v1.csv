@@ -1,0 +1,595 @@
+QuestionText,Values Text,Total,"Age - 18-34
+(Millennial)","Age - 35+
+(Non-Millennial)",NOY - 0-5,NOY - 6-20,NOY - 21+,Res - Yes,Res - No,Central - Yes,Central - No
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Traffic/ Roads/ Transportation,0.82,0.78,0.85,0.85,0.85,0.79,0.82,0.83,0.79,0.83
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Affordability/ Cost of Living/ Affordable Housing/ Gentrification,0.5,0.45,0.53,0.43,0.51,0.52,0.56,0.44,0.59,0.47
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Population Growth,0.24,0.26,0.23,0.24,0.22,0.25,0.23,0.25,0.2,0.25
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Jobs/ Wages/ Unemployment/ Poverty/ Homelessness,0.17,0.23,0.14,0.18,0.13,0.18,0.2,0.14,0.21,0.16
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Education,0.12,0.15,0.11,0.1,0.14,0.12,0.13,0.11,0.12,0.12
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Water/Drought,0.11,0.06,0.13,0.11,0.14,0.08,0.11,0.1,0.09,0.11
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),Crime,0.1,0.1,0.1,0.1,0.08,0.11,0.08,0.12,0.06,0.11
+Q1.  What do you think are the three most important problems facing Austin today? (Open-ended responses are reported as coded.),None of these,0.05,0.07,0.04,0.06,0.03,0.06,0.04,0.05,0.04,0.05
+Q2. Do you think Austin is...,Doing a good job of remaining unique from other major U.S. cities,0.38,0.5,0.32,0.5,0.35,0.35,0.4,0.37,0.4,0.38
+Q2. Do you think Austin is...,Unique but becoming more similar to other major U.S. cities,0.49,0.44,0.51,0.44,0.51,0.5,0.52,0.46,0.55,0.47
+Q2. Do you think Austin is...,Similar to other major U.S. cities,0.13,0.06,0.17,0.06,0.14,0.15,0.08,0.18,0.06,0.15
+Q3. Do you believe Austin is at risk of losing its appeal because of the rising cost of living?,"Yes, definitely",0.54,0.47,0.57,0.41,0.53,0.59,0.54,0.53,0.55,0.53
+Q3. Do you believe Austin is at risk of losing its appeal because of the rising cost of living?,"Yes, somewhat",0.32,0.38,0.29,0.34,0.34,0.3,0.35,0.3,0.35,0.32
+Q3. Do you believe Austin is at risk of losing its appeal because of the rising cost of living?,Not really,0.11,0.11,0.11,0.2,0.12,0.07,0.09,0.13,0.09,0.12
+Q3. Do you believe Austin is at risk of losing its appeal because of the rising cost of living?,Definitely not,0.02,0.02,0.02,0.03,0.01,0.02,0.01,0.02,0,0.02
+Q3. Do you believe Austin is at risk of losing its appeal because of the rising cost of living?,Unsure,0.02,0.02,0.01,0.02,0,0.02,0.01,0.02,0.01,0.02
+Q4. Has the rising cost of living in Austin limited how much of your earnings you've been able to put into personal savings?,Yes,0.66,0.76,0.6,0.67,0.6,0.69,0.72,0.59,0.7,0.64
+Q4. Has the rising cost of living in Austin limited how much of your earnings you've been able to put into personal savings?,No,0.19,0.1,0.24,0.16,0.25,0.17,0.19,0.2,0.21,0.19
+Q4. Has the rising cost of living in Austin limited how much of your earnings you've been able to put into personal savings?,Unsure,0.05,0.05,0.05,0.07,0.06,0.04,0.05,0.05,0.04,0.05
+Q4. Has the rising cost of living in Austin limited how much of your earnings you've been able to put into personal savings?,Prefer not to answer,0,0,0.01,0,0.01,0,0.01,0,0,0.01
+Q4. Has the rising cost of living in Austin limited how much of your earnings you've been able to put into personal savings?,Not applicable to me,0.09,0.08,0.1,0.1,0.09,0.09,0.03,0.15,0.06,0.11
+Q5. Has your neighborhood experienced gentrification?,Yes,0.29,0.42,0.22,0.32,0.24,0.31,0.41,0.17,0.58,0.21
+Q5. Has your neighborhood experienced gentrification?,No,0.62,0.45,0.71,0.52,0.7,0.61,0.49,0.74,0.35,0.69
+Q5. Has your neighborhood experienced gentrification?,Unsure,0.09,0.13,0.07,0.16,0.06,0.08,0.1,0.09,0.07,0.1
+"Q6. In your opinion, has gentrification helped or hurt your neighborhood?",Helped,0.32,0.36,0.28,0.22,0.46,0.3,0.33,0.31,0.28,0.35
+"Q6. In your opinion, has gentrification helped or hurt your neighborhood?",Hurt,0.44,0.37,0.5,0.44,0.35,0.48,0.47,0.37,0.45,0.43
+"Q6. In your opinion, has gentrification helped or hurt your neighborhood?",Unsure,0.24,0.27,0.22,0.34,0.2,0.22,0.21,0.32,0.26,0.22
+"Q7. Should the City of Austin relax its development rules to allow for more types of housing to be built in the city such as town homes, garage apartments and other small apartment buildings?",Yes,0.57,0.65,0.53,0.63,0.59,0.54,0.59,0.56,0.6,0.57
+"Q7. Should the City of Austin relax its development rules to allow for more types of housing to be built in the city such as town homes, garage apartments and other small apartment buildings?",No,0.23,0.16,0.27,0.17,0.23,0.27,0.23,0.23,0.2,0.24
+"Q7. Should the City of Austin relax its development rules to allow for more types of housing to be built in the city such as town homes, garage apartments and other small apartment buildings?",Unsure,0.19,0.19,0.19,0.2,0.18,0.2,0.18,0.21,0.21,0.19
+Q8. Would you support a 20% homestead exemption?,Yes,0.79,0.75,0.81,0.69,0.82,0.82,0.8,0.79,0.77,0.8
+Q8. Would you support a 20% homestead exemption?,No,0.07,0.06,0.07,0.06,0.07,0.08,0.07,0.07,0.07,0.07
+Q8. Would you support a 20% homestead exemption?,Unsure,0.14,0.19,0.11,0.25,0.12,0.1,0.14,0.14,0.16,0.13
+Q9. Would you support a homestead exemption if it meant raising property taxes for industrial and commercial properties?,Yes,0.69,0.58,0.74,0.57,0.69,0.74,0.69,0.69,0.7,0.68
+Q9. Would you support a homestead exemption if it meant raising property taxes for industrial and commercial properties?,No,0.13,0.14,0.12,0.15,0.13,0.12,0.13,0.12,0.14,0.13
+Q9. Would you support a homestead exemption if it meant raising property taxes for industrial and commercial properties?,Unsure,0.18,0.27,0.14,0.28,0.19,0.14,0.18,0.19,0.16,0.19
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Technology,0.9,0.9,0.9,0.88,0.94,0.88,0.9,0.9,0.91,0.9
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Education,0.86,0.84,0.86,0.88,0.82,0.87,0.85,0.86,0.88,0.85
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),"Service industry (hotels, retail, restaurants, bars)",0.82,0.85,0.81,0.87,0.83,0.8,0.82,0.83,0.86,0.81
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Healthcare,0.79,0.79,0.8,0.79,0.76,0.82,0.77,0.82,0.75,0.81
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Entertainment/Festivals,0.78,0.82,0.77,0.83,0.81,0.75,0.78,0.79,0.82,0.77
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Entrepreneurial/Business Owner,0.77,0.76,0.78,0.84,0.8,0.73,0.78,0.77,0.84,0.76
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Transportation,0.76,0.8,0.74,0.81,0.71,0.77,0.72,0.79,0.74,0.77
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),"Federal, state or local government",0.74,0.72,0.75,0.73,0.75,0.74,0.75,0.73,0.78,0.73
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Real estate,0.74,0.77,0.72,0.78,0.68,0.76,0.74,0.74,0.73,0.74
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Communications,0.71,0.72,0.7,0.74,0.65,0.73,0.66,0.75,0.67,0.72
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),"Creative (design, fashion, art, music, writing)",0.71,0.81,0.65,0.77,0.72,0.67,0.74,0.67,0.77,0.69
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Energy or Utilities,0.68,0.75,0.64,0.71,0.59,0.71,0.66,0.69,0.63,0.69
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Law/Legal Services,0.54,0.61,0.51,0.6,0.46,0.57,0.53,0.55,0.5,0.55
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Accounting and Finance,0.53,0.61,0.49,0.57,0.5,0.53,0.49,0.56,0.51,0.54
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Manufacturing,0.51,0.53,0.5,0.48,0.48,0.55,0.45,0.57,0.38,0.55
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Oil and Gas,0.48,0.59,0.42,0.53,0.43,0.49,0.45,0.51,0.36,0.51
+Q10. How important do you think the following industries are to Austin's economy? (Reporting Extremely/Very Important),Farming or Agriculture,0.38,0.46,0.35,0.48,0.34,0.37,0.35,0.42,0.34,0.4
+Q11. How difficult do you think it is to get a good job in Austin?,Very difficult,0.18,0.16,0.19,0.17,0.14,0.21,0.2,0.16,0.18,0.18
+Q11. How difficult do you think it is to get a good job in Austin?,Somewhat difficult,0.49,0.53,0.46,0.47,0.47,0.51,0.49,0.49,0.52,0.48
+Q11. How difficult do you think it is to get a good job in Austin?,Not very difficult,0.24,0.24,0.24,0.26,0.28,0.21,0.24,0.24,0.24,0.24
+Q11. How difficult do you think it is to get a good job in Austin?,Not difficult at all,0.05,0.04,0.05,0.07,0.07,0.03,0.04,0.06,0.03,0.05
+Q11. How difficult do you think it is to get a good job in Austin?,Don't know,0.04,0.03,0.05,0.03,0.05,0.05,0.03,0.06,0.03,0.05
+Q12. How important do you think start-up companies are to Austin's economy?,Extremely important,0.28,0.34,0.24,0.33,0.31,0.24,0.26,0.29,0.27,0.28
+Q12. How important do you think start-up companies are to Austin's economy?,Very important,0.39,0.32,0.42,0.37,0.39,0.4,0.4,0.38,0.4,0.39
+Q12. How important do you think start-up companies are to Austin's economy?,Somewhat important,0.28,0.27,0.28,0.24,0.24,0.32,0.31,0.25,0.28,0.28
+Q12. How important do you think start-up companies are to Austin's economy?,Not very important,0.02,0.01,0.02,0,0.03,0.02,0.02,0.02,0.03,0.02
+Q12. How important do you think start-up companies are to Austin's economy?,Not important at all,0,0.01,0,0.01,0,0,0,0.01,0,0
+Q12. How important do you think start-up companies are to Austin's economy?,Don't know,0.03,0.05,0.02,0.05,0.03,0.02,0.02,0.05,0.01,0.04
+"Q13. Do you think Austin should create city-specific incentive programs such as grants, tax reductions, loans and fee waivers to attract companies that bring or grow middle class jobs and/or train current residents for middle class jobs?",Yes,0.71,0.79,0.67,0.8,0.71,0.67,0.71,0.7,0.73,0.7
+"Q13. Do you think Austin should create city-specific incentive programs such as grants, tax reductions, loans and fee waivers to attract companies that bring or grow middle class jobs and/or train current residents for middle class jobs?",No,0.15,0.08,0.19,0.09,0.16,0.18,0.14,0.16,0.13,0.16
+"Q13. Do you think Austin should create city-specific incentive programs such as grants, tax reductions, loans and fee waivers to attract companies that bring or grow middle class jobs and/or train current residents for middle class jobs?",Unsure,0.14,0.13,0.14,0.11,0.13,0.15,0.14,0.13,0.14,0.14
+"Q14. Do you support economic incentives for companies that provide manufacturing jobs that pay $60,000 or more annually to existing residents?","Yes, definitely",0.35,0.36,0.35,0.41,0.36,0.32,0.31,0.39,0.34,0.36
+"Q14. Do you support economic incentives for companies that provide manufacturing jobs that pay $60,000 or more annually to existing residents?","Yes, somewhat",0.36,0.37,0.35,0.35,0.35,0.37,0.38,0.34,0.36,0.36
+"Q14. Do you support economic incentives for companies that provide manufacturing jobs that pay $60,000 or more annually to existing residents?",Not really,0.14,0.09,0.17,0.1,0.16,0.15,0.15,0.13,0.12,0.15
+"Q14. Do you support economic incentives for companies that provide manufacturing jobs that pay $60,000 or more annually to existing residents?",Definitely not,0.04,0.01,0.05,0.02,0.04,0.04,0.04,0.03,0.04,0.04
+"Q14. Do you support economic incentives for companies that provide manufacturing jobs that pay $60,000 or more annually to existing residents?",Unsure,0.11,0.17,0.08,0.12,0.1,0.12,0.12,0.1,0.14,0.1
+"Q15. Do you think Austin should provide additional support, like affordable housing and tax incentives, for people in creative industries, such as musicians, entertainers and artists?","Yes, definitely",0.26,0.31,0.23,0.27,0.26,0.25,0.28,0.24,0.36,0.23
+"Q15. Do you think Austin should provide additional support, like affordable housing and tax incentives, for people in creative industries, such as musicians, entertainers and artists?","Yes, somewhat",0.28,0.31,0.26,0.28,0.24,0.3,0.29,0.27,0.28,0.28
+"Q15. Do you think Austin should provide additional support, like affordable housing and tax incentives, for people in creative industries, such as musicians, entertainers and artists?",Not really,0.29,0.25,0.31,0.29,0.29,0.29,0.28,0.29,0.27,0.29
+"Q15. Do you think Austin should provide additional support, like affordable housing and tax incentives, for people in creative industries, such as musicians, entertainers and artists?",Definitely not,0.11,0.06,0.14,0.09,0.13,0.11,0.1,0.12,0.06,0.13
+"Q15. Do you think Austin should provide additional support, like affordable housing and tax incentives, for people in creative industries, such as musicians, entertainers and artists?",Unsure,0.06,0.07,0.06,0.07,0.08,0.05,0.05,0.08,0.04,0.07
+Q16. The city of Austin gives companies looking to build in Austin economic incentives if they agree to pay an hourly wage of at least $11 per hour. Do you believe this is the right hourly wage?,"Yes, definitely",0.42,0.56,0.35,0.5,0.39,0.41,0.44,0.41,0.49,0.41
+Q16. The city of Austin gives companies looking to build in Austin economic incentives if they agree to pay an hourly wage of at least $11 per hour. Do you believe this is the right hourly wage?,"No, the wage should be more",0.37,0.27,0.42,0.34,0.37,0.38,0.4,0.34,0.4,0.36
+Q16. The city of Austin gives companies looking to build in Austin economic incentives if they agree to pay an hourly wage of at least $11 per hour. Do you believe this is the right hourly wage?,"No, the wage should be less",0.07,0.06,0.07,0.04,0.08,0.07,0.04,0.09,0.02,0.08
+Q16. The city of Austin gives companies looking to build in Austin economic incentives if they agree to pay an hourly wage of at least $11 per hour. Do you believe this is the right hourly wage?,Unsure,0.14,0.11,0.16,0.12,0.16,0.14,0.12,0.17,0.09,0.16
+Q17. How optimistic or pessimistic are you about the newly elected representatives in the mayor's office?,Very optimistic,0.06,0.07,0.05,0.06,0.06,0.05,0.06,0.05,0.05,0.06
+Q17. How optimistic or pessimistic are you about the newly elected representatives in the mayor's office?,Somewhat optimistic,0.32,0.25,0.36,0.25,0.34,0.35,0.32,0.33,0.35,0.32
+Q17. How optimistic or pessimistic are you about the newly elected representatives in the mayor's office?,Somewhat pessimistic,0.19,0.16,0.2,0.14,0.19,0.2,0.22,0.16,0.19,0.18
+Q17. How optimistic or pessimistic are you about the newly elected representatives in the mayor's office?,Very pessimistic,0.07,0.07,0.06,0.05,0.08,0.06,0.07,0.06,0.08,0.06
+Q17. How optimistic or pessimistic are you about the newly elected representatives in the mayor's office?,Unfamiliar,0.23,0.32,0.18,0.34,0.2,0.19,0.21,0.25,0.2,0.24
+Q17. How optimistic or pessimistic are you about the newly elected representatives in the mayor's office?,Undecided,0.14,0.14,0.14,0.16,0.12,0.15,0.13,0.15,0.12,0.15
+Q18. How optimistic or pessimistic are you about the newly elected representatives in City Council?,Very optimistic,0.04,0.04,0.03,0.03,0.03,0.04,0.03,0.04,0.02,0.04
+Q18. How optimistic or pessimistic are you about the newly elected representatives in City Council?,Somewhat optimistic,0.31,0.25,0.34,0.24,0.34,0.32,0.33,0.29,0.38,0.29
+Q18. How optimistic or pessimistic are you about the newly elected representatives in City Council?,Somewhat pessimistic,0.19,0.17,0.21,0.15,0.2,0.21,0.2,0.18,0.19,0.19
+Q18. How optimistic or pessimistic are you about the newly elected representatives in City Council?,Very pessimistic,0.07,0.05,0.08,0.04,0.1,0.07,0.08,0.06,0.08,0.07
+Q18. How optimistic or pessimistic are you about the newly elected representatives in City Council?,Unfamiliar,0.26,0.37,0.2,0.41,0.22,0.22,0.23,0.29,0.22,0.27
+Q18. How optimistic or pessimistic are you about the newly elected representatives in City Council?,Undecided,0.13,0.12,0.14,0.13,0.12,0.13,0.12,0.14,0.11,0.13
+"Q19. The city of Austin is now divided into 10 single member districts, each with its own council member, and one mayor who is voted on at-large.  How optimistic or pessimistic are you about the new 10-1 City Council structure?",Very optimistic,0.09,0.1,0.09,0.08,0.09,0.1,0.09,0.09,0.09,0.09
+"Q19. The city of Austin is now divided into 10 single member districts, each with its own council member, and one mayor who is voted on at-large.  How optimistic or pessimistic are you about the new 10-1 City Council structure?",Somewhat optimistic,0.34,0.24,0.4,0.28,0.4,0.33,0.37,0.31,0.42,0.32
+"Q19. The city of Austin is now divided into 10 single member districts, each with its own council member, and one mayor who is voted on at-large.  How optimistic or pessimistic are you about the new 10-1 City Council structure?",Somewhat pessimistic,0.15,0.16,0.15,0.15,0.11,0.18,0.16,0.15,0.13,0.16
+"Q19. The city of Austin is now divided into 10 single member districts, each with its own council member, and one mayor who is voted on at-large.  How optimistic or pessimistic are you about the new 10-1 City Council structure?",Very pessimistic,0.06,0.05,0.06,0.03,0.07,0.06,0.06,0.05,0.06,0.05
+"Q19. The city of Austin is now divided into 10 single member districts, each with its own council member, and one mayor who is voted on at-large.  How optimistic or pessimistic are you about the new 10-1 City Council structure?",Unfamiliar,0.22,0.31,0.17,0.37,0.2,0.16,0.19,0.24,0.17,0.23
+"Q19. The city of Austin is now divided into 10 single member districts, each with its own council member, and one mayor who is voted on at-large.  How optimistic or pessimistic are you about the new 10-1 City Council structure?",Undecided,0.14,0.14,0.14,0.1,0.12,0.17,0.13,0.15,0.12,0.14
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Very supportive,0.23,0.28,0.2,0.23,0.25,0.21,0.23,0.24,0.24,0.23
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Somewhat supportive,0.28,0.24,0.3,0.25,0.29,0.28,0.29,0.27,0.25,0.29
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Neutral,0.23,0.19,0.26,0.2,0.2,0.26,0.24,0.23,0.25,0.23
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Somewhat unsupportive,0.04,0.04,0.04,0.01,0.05,0.05,0.06,0.02,0.05,0.04
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Very unsupportive,0.03,0.01,0.04,0.02,0.04,0.02,0.03,0.02,0.03,0.03
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Unfamiliar,0.15,0.21,0.12,0.24,0.12,0.13,0.13,0.17,0.14,0.15
+Q20. How supportive are you of the coming Innovation Zone in the northeast corner of downtown? This zone will include Austin's new medical school and teaching hospital among other additions.,Undecided,0.04,0.04,0.04,0.04,0.04,0.04,0.02,0.05,0.03,0.04
+"Q21. How familiar are you with the ""10 Goals in 10 Years"" effort (also known as ""10-10"")? This effort officially kicked off several years ago, and is related to enhancing Austin's economic, healthcare, and technology infrastructure over the coming decade.",Very familiar,0.05,0.07,0.04,0.03,0.06,0.05,0.06,0.04,0.09,0.04
+"Q21. How familiar are you with the ""10 Goals in 10 Years"" effort (also known as ""10-10"")? This effort officially kicked off several years ago, and is related to enhancing Austin's economic, healthcare, and technology infrastructure over the coming decade.",Somewhat familiar,0.23,0.26,0.21,0.23,0.24,0.21,0.23,0.22,0.17,0.24
+"Q21. How familiar are you with the ""10 Goals in 10 Years"" effort (also known as ""10-10"")? This effort officially kicked off several years ago, and is related to enhancing Austin's economic, healthcare, and technology infrastructure over the coming decade.",Unfamiliar,0.72,0.67,0.75,0.74,0.7,0.74,0.71,0.74,0.74,0.72
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",More dedicated express lanes on Austin's major highways,0.7,0.71,0.7,0.71,0.69,0.71,0.66,0.74,0.64,0.72
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",Expanding service on the most frequently used bus routes,0.69,0.69,0.69,0.77,0.69,0.66,0.75,0.64,0.77,0.67
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",Above ground rail system,0.63,0.65,0.62,0.71,0.65,0.59,0.66,0.61,0.66,0.62
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",Underground subway system,0.52,0.61,0.47,0.62,0.52,0.47,0.56,0.48,0.58,0.5
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",Dedicated bicycle lanes throughout major Austin roadways,0.49,0.54,0.46,0.57,0.51,0.44,0.54,0.44,0.6,0.46
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",Moving I-35 underground,0.47,0.53,0.44,0.47,0.49,0.45,0.5,0.44,0.51,0.46
+"Q22. Assuming an increase in taxes for projects that involve lots of new construction, how supportive are you of the following transportation initiatives/infrastructure projects? (Reporting Very/Somewhat Supportive)",Converting lanes in the downtown area to be for buses only,0.41,0.47,0.39,0.37,0.45,0.42,0.43,0.4,0.45,0.4
+Q23. Do you think the Austin Police Department (APD) treats people of all races and ethnicities fairly and equally?,"Yes, definitely",0.22,0.22,0.21,0.27,0.2,0.2,0.18,0.25,0.13,0.24
+Q23. Do you think the Austin Police Department (APD) treats people of all races and ethnicities fairly and equally?,"Yes, somewhat",0.32,0.31,0.32,0.22,0.31,0.37,0.31,0.33,0.32,0.32
+Q23. Do you think the Austin Police Department (APD) treats people of all races and ethnicities fairly and equally?,Not really,0.2,0.2,0.21,0.18,0.24,0.2,0.23,0.18,0.22,0.2
+Q23. Do you think the Austin Police Department (APD) treats people of all races and ethnicities fairly and equally?,Definitely not,0.12,0.1,0.13,0.08,0.13,0.13,0.16,0.09,0.19,0.1
+Q23. Do you think the Austin Police Department (APD) treats people of all races and ethnicities fairly and equally?,Unsure,0.14,0.18,0.12,0.26,0.12,0.1,0.13,0.16,0.14,0.14
+Q24. Do you think APD officers should be equipped with body cameras?,Yes,0.82,0.76,0.85,0.79,0.82,0.84,0.79,0.85,0.79,0.83
+Q24. Do you think APD officers should be equipped with body cameras?,No,0.07,0.08,0.06,0.12,0.05,0.05,0.09,0.05,0.09,0.06
+Q24. Do you think APD officers should be equipped with body cameras?,Unsure,0.11,0.16,0.09,0.09,0.13,0.11,0.12,0.1,0.12,0.11
+Q25. Which of the following do you support? (Select all that apply).,State policies to legalize same-sex marriage,0.55,0.62,0.51,0.62,0.53,0.53,0.65,0.45,0.8,0.48
+Q25. Which of the following do you support? (Select all that apply).,State policies to legalize marijuana,0.52,0.57,0.5,0.51,0.47,0.56,0.6,0.44,0.67,0.48
+Q25. Which of the following do you support? (Select all that apply).,State policies to lessen the impact of climate change,0.49,0.57,0.45,0.58,0.47,0.47,0.58,0.41,0.65,0.45
+Q25. Which of the following do you support? (Select all that apply).,"Allowing religious artifacts (e.g., Ten Commandments display) in public spaces",0.45,0.36,0.5,0.39,0.45,0.48,0.37,0.52,0.29,0.5
+Q25. Which of the following do you support? (Select all that apply).,"Allowing religious activities (e.g., prayer) in government supported institutions (e.g., schools)",0.44,0.37,0.48,0.44,0.43,0.46,0.35,0.54,0.31,0.48
+Q25. Which of the following do you support? (Select all that apply).,Policies to change or end the Affordable Care Act (ObamaCare),0.41,0.43,0.4,0.37,0.38,0.45,0.33,0.49,0.22,0.47
+Q25. Which of the following do you support? (Select all that apply).,None of the above,0.05,0.05,0.05,0.04,0.06,0.05,0.04,0.07,0.03,0.06
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Austin (AISD),0.32,0.32,0.33,0.16,0.29,0.39,0.65,0.07,0.83,0.23
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Round Rock,0.12,0.11,0.13,0.08,0.11,0.14,0.05,0.18,0,0.15
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Leander,0.07,0.06,0.08,0.16,0.11,0.02,0.01,0.12,0,0.09
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Pflugerville,0.05,0.04,0.05,0,0.05,0.07,0.03,0.07,0,0.06
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Luling,0.03,0.02,0.04,0.1,0.03,0.02,0,0.06,0,0.04
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Manor,0.03,0.02,0.04,0,0.08,0.01,0.02,0.05,0,0.04
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Del Valle,0.03,0,0.05,0,0,0.06,0.05,0.01,0.05,0.03
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Hays,0.03,0.05,0.01,0,0,0.05,0,0.05,0,0.03
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Georgetown,0.03,0.02,0.03,0,0.02,0.04,0,0.05,0,0.03
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),San Marcos,0.02,0.02,0.02,0.04,0.02,0.01,0,0.03,0,0.02
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Lockhart,0.02,0,0.03,0.07,0.03,0,0,0.03,0,0.02
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Bastrop,0.02,0,0.03,0,0,0.03,0,0.03,0,0.02
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Taylor,0.02,0.02,0.01,0,0.01,0.02,0,0.03,0,0.02
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Lake Travis,0.01,0.01,0.02,0.02,0,0.02,0.01,0.01,0,0.02
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Eanes,0.01,0,0.02,0,0.03,0,0.02,0,0.07,0
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Lago Vista,0.01,0,0.01,0,0,0.01,0,0.01,0,0.01
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Johnson,0,0.01,0,0,0,0,0.01,0,0,0
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Dripping Springs,0,0,0,0,0.01,0,0,0,0,0
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),Other,0.03,0.04,0.02,0.04,0.04,0.02,0.04,0.02,0.02,0.03
+Q26. In which of the following school districts do your children currently attend school? (Select all that apply),None of the above,0.16,0.28,0.08,0.33,0.18,0.09,0.13,0.18,0.02,0.18
+"Q27. Given the amount you pay in taxes, do you believe your children are getting a public education commensurate with your personal financial investment?","Yes, definitely",0.21,0.18,0.24,0.25,0.17,0.23,0.16,0.26,0.19,0.22
+"Q27. Given the amount you pay in taxes, do you believe your children are getting a public education commensurate with your personal financial investment?","Yes, somewhat",0.33,0.33,0.34,0.22,0.33,0.37,0.3,0.36,0.38,0.33
+"Q27. Given the amount you pay in taxes, do you believe your children are getting a public education commensurate with your personal financial investment?",Not really,0.21,0.11,0.27,0.2,0.19,0.22,0.21,0.2,0.18,0.21
+"Q27. Given the amount you pay in taxes, do you believe your children are getting a public education commensurate with your personal financial investment?",Definitely not,0.14,0.2,0.1,0.09,0.11,0.17,0.21,0.08,0.23,0.12
+"Q27. Given the amount you pay in taxes, do you believe your children are getting a public education commensurate with your personal financial investment?",Unsure,0.11,0.18,0.05,0.24,0.18,0.02,0.12,0.1,0.02,0.12
+Q28. Why do you believe your child/children are not getting a public education commensurate with your financial investment? (Select all that apply),Educational opportunities aren't adequate,0.68,0.76,0.64,0.85,0.69,0.64,0.72,0.63,0.75,0.67
+Q28. Why do you believe your child/children are not getting a public education commensurate with your financial investment? (Select all that apply),The facilities are run down/need improvement,0.38,0.42,0.36,0.49,0.3,0.4,0.52,0.23,0.54,0.35
+Q28. Why do you believe your child/children are not getting a public education commensurate with your financial investment? (Select all that apply),Costs too much,0.25,0.16,0.3,0,0.46,0.21,0.22,0.29,0.12,0.28
+Q28. Why do you believe your child/children are not getting a public education commensurate with your financial investment? (Select all that apply),The schools my child/children attend aren't safe,0.22,0.23,0.21,0,0.03,0.36,0.32,0.1,0.27,0.21
+Q28. Why do you believe your child/children are not getting a public education commensurate with your financial investment? (Select all that apply),Other,0.11,0.02,0.16,0.07,0.09,0.13,0.08,0.15,0.13,0.11
+"Q29. If financially feasible, would you send your child/children to private school (a school established by a private group rather than by a government entity, usually charging tuition and often guided by a particular philosophy or viewpoint) instead of public school?","Yes, my child/children currently attend private school",0.11,0.12,0.1,0.04,0.04,0.17,0.07,0.13,0.06,0.11
+"Q29. If financially feasible, would you send your child/children to private school (a school established by a private group rather than by a government entity, usually charging tuition and often guided by a particular philosophy or viewpoint) instead of public school?","Yes, I would send them to private school",0.49,0.64,0.39,0.61,0.4,0.52,0.55,0.45,0.5,0.49
+"Q29. If financially feasible, would you send your child/children to private school (a school established by a private group rather than by a government entity, usually charging tuition and often guided by a particular philosophy or viewpoint) instead of public school?",No,0.26,0.14,0.35,0.14,0.36,0.24,0.27,0.26,0.32,0.26
+"Q29. If financially feasible, would you send your child/children to private school (a school established by a private group rather than by a government entity, usually charging tuition and often guided by a particular philosophy or viewpoint) instead of public school?",Unsure,0.14,0.1,0.16,0.21,0.2,0.07,0.1,0.16,0.12,0.14
+Q30. A charter school is a school that receives public funding but operates independently of the established public school system in its area. Would you send your child/children to a charter school?,"Yes, my child/children currently attend a charter school",0.07,0.08,0.05,0.06,0.04,0.08,0.08,0.06,0.07,0.07
+Q30. A charter school is a school that receives public funding but operates independently of the established public school system in its area. Would you send your child/children to a charter school?,"Yes, I would consider/am considering sending them to a charter school",0.53,0.51,0.54,0.55,0.43,0.59,0.56,0.51,0.48,0.54
+Q30. A charter school is a school that receives public funding but operates independently of the established public school system in its area. Would you send your child/children to a charter school?,No,0.28,0.24,0.3,0.15,0.39,0.25,0.27,0.28,0.4,0.26
+Q30. A charter school is a school that receives public funding but operates independently of the established public school system in its area. Would you send your child/children to a charter school?,Unsure,0.13,0.16,0.1,0.24,0.14,0.08,0.09,0.16,0.06,0.14
+Q31. Did the schools in your neighborhood influence where you and your family chose to buy or rent a place to live?,"Yes, definitely",0.4,0.39,0.41,0.33,0.45,0.4,0.39,0.41,0.45,0.4
+Q31. Did the schools in your neighborhood influence where you and your family chose to buy or rent a place to live?,"Yes, somewhat",0.2,0.17,0.22,0.36,0.19,0.15,0.15,0.24,0.14,0.21
+Q31. Did the schools in your neighborhood influence where you and your family chose to buy or rent a place to live?,Not really,0.27,0.32,0.24,0.12,0.27,0.31,0.27,0.27,0.2,0.28
+Q31. Did the schools in your neighborhood influence where you and your family chose to buy or rent a place to live?,Definitely not,0.09,0.06,0.11,0.14,0.05,0.09,0.15,0.04,0.15,0.08
+Q31. Did the schools in your neighborhood influence where you and your family chose to buy or rent a place to live?,Unsure,0.04,0.06,0.03,0.04,0.03,0.04,0.04,0.04,0.06,0.04
+Q32. Do you support state vouchers that would allow public school students to channel public funding to the private school of their choice?,"Yes, definitely",0.32,0.43,0.25,0.15,0.26,0.42,0.29,0.35,0.31,0.33
+Q32. Do you support state vouchers that would allow public school students to channel public funding to the private school of their choice?,"Yes, somewhat",0.22,0.16,0.25,0.17,0.28,0.19,0.2,0.23,0.17,0.23
+Q32. Do you support state vouchers that would allow public school students to channel public funding to the private school of their choice?,Not really,0.16,0.15,0.16,0.12,0.16,0.16,0.17,0.15,0.21,0.15
+Q32. Do you support state vouchers that would allow public school students to channel public funding to the private school of their choice?,Definitely not,0.13,0.04,0.18,0.07,0.17,0.12,0.19,0.08,0.21,0.11
+Q32. Do you support state vouchers that would allow public school students to channel public funding to the private school of their choice?,Unsure,0.18,0.22,0.15,0.5,0.13,0.11,0.15,0.2,0.1,0.19
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Musical,0.94,0.93,0.95,0.94,0.97,0.92,0.94,0.94,0.95,0.94
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Active,0.9,0.9,0.9,0.93,0.92,0.87,0.93,0.87,0.97,0.88
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Artistic,0.89,0.89,0.89,0.9,0.9,0.88,0.91,0.87,0.95,0.87
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Creative,0.89,0.88,0.89,0.88,0.91,0.88,0.91,0.86,0.93,0.88
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Technologically sophisticated,0.87,0.84,0.88,0.84,0.88,0.88,0.9,0.84,0.91,0.86
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Innovative,0.82,0.82,0.82,0.82,0.85,0.81,0.87,0.77,0.89,0.8
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Entrepreneurial,0.81,0.78,0.82,0.83,0.81,0.79,0.84,0.77,0.88,0.78
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Environmentally friendly,0.79,0.79,0.8,0.77,0.81,0.79,0.85,0.74,0.85,0.78
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Young,0.77,0.84,0.74,0.8,0.79,0.75,0.8,0.75,0.87,0.74
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Liberal,0.75,0.75,0.76,0.8,0.74,0.74,0.78,0.73,0.81,0.74
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Culturally diverse,0.74,0.77,0.73,0.79,0.68,0.76,0.72,0.76,0.72,0.75
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Laid back,0.72,0.79,0.68,0.74,0.73,0.7,0.74,0.69,0.77,0.7
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Hipsterish,0.71,0.81,0.66,0.8,0.7,0.68,0.77,0.65,0.84,0.67
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Weird,0.69,0.74,0.66,0.7,0.66,0.69,0.68,0.69,0.7,0.68
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Philanthropic,0.55,0.59,0.53,0.54,0.54,0.56,0.55,0.54,0.62,0.53
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Segregated,0.45,0.42,0.46,0.38,0.5,0.44,0.54,0.37,0.62,0.4
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Narcissistic,0.42,0.4,0.43,0.44,0.37,0.43,0.45,0.38,0.5,0.39
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Spiritual,0.39,0.46,0.35,0.4,0.37,0.4,0.42,0.36,0.39,0.39
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Unequal,0.32,0.29,0.33,0.22,0.31,0.37,0.36,0.27,0.45,0.28
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Religious,0.29,0.26,0.31,0.23,0.27,0.34,0.28,0.31,0.26,0.3
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Conservative,0.25,0.25,0.25,0.17,0.25,0.29,0.26,0.24,0.21,0.26
+Q33. How much do you agree or disagree that the following characteristics describe the City of Austin? (Reporting Strongly/Somewhat Agree),Affordable,0.24,0.32,0.2,0.33,0.23,0.21,0.22,0.26,0.25,0.24
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Laid back,0.75,0.83,0.71,0.77,0.69,0.77,0.78,0.72,0.83,0.72
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Environmentally friendly,0.74,0.72,0.75,0.71,0.71,0.78,0.78,0.71,0.77,0.73
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Active,0.69,0.75,0.65,0.7,0.7,0.67,0.7,0.67,0.74,0.67
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Creative,0.65,0.73,0.6,0.69,0.63,0.64,0.67,0.62,0.71,0.63
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Technologically sophisticated,0.62,0.7,0.58,0.65,0.59,0.63,0.65,0.6,0.67,0.61
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Spiritual,0.56,0.5,0.59,0.52,0.53,0.59,0.53,0.58,0.46,0.59
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Innovative,0.52,0.6,0.48,0.55,0.51,0.52,0.56,0.48,0.64,0.49
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Liberal,0.5,0.57,0.47,0.52,0.47,0.52,0.63,0.39,0.73,0.44
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Artistic,0.46,0.57,0.39,0.47,0.42,0.48,0.5,0.41,0.52,0.44
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Religious,0.45,0.41,0.48,0.41,0.43,0.49,0.43,0.47,0.33,0.49
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Musical,0.45,0.58,0.38,0.46,0.45,0.45,0.5,0.41,0.51,0.43
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Conservative,0.43,0.39,0.45,0.42,0.44,0.43,0.35,0.51,0.27,0.48
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Weird,0.4,0.57,0.31,0.48,0.32,0.41,0.45,0.35,0.53,0.36
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Young,0.4,0.82,0.17,0.57,0.32,0.37,0.49,0.31,0.57,0.35
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Entrepreneurial,0.37,0.43,0.34,0.41,0.36,0.37,0.4,0.35,0.43,0.36
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Philanthropic,0.37,0.38,0.36,0.33,0.36,0.39,0.4,0.34,0.42,0.35
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Hipsterish,0.19,0.3,0.13,0.24,0.14,0.2,0.21,0.17,0.26,0.17
+Q34. How much do you agree or disagree that the following characteristics describe yourself? (Reporting Strongly/Somewhat Agree),Narcissistic,0.14,0.21,0.1,0.2,0.11,0.13,0.15,0.12,0.19,0.12
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),The Texas State Capitol,0.51,0.51,0.52,0.53,0.55,0.49,0.53,0.5,0.5,0.52
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),University of Texas Tower,0.37,0.33,0.38,0.32,0.36,0.39,0.41,0.33,0.4,0.36
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),6th Street,0.32,0.39,0.29,0.44,0.36,0.25,0.32,0.33,0.29,0.33
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Zilker Park,0.23,0.26,0.21,0.21,0.17,0.27,0.26,0.2,0.28,0.21
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Lady Bird Lake/Town Lake and Butler Hike,0.22,0.27,0.19,0.24,0.2,0.22,0.25,0.18,0.3,0.19
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Barton Springs Pool,0.19,0.15,0.21,0.15,0.12,0.25,0.2,0.17,0.25,0.17
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Ann W. Richards Congress Avenue Bridge (Bat Bridge),0.18,0.14,0.2,0.21,0.2,0.16,0.2,0.16,0.16,0.18
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Darrell K Royal Texas Memorial Stadium,0.15,0.16,0.14,0.12,0.11,0.18,0.12,0.18,0.1,0.16
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Pennybacker/360 Bridge,0.13,0.12,0.14,0.05,0.18,0.14,0.12,0.15,0.09,0.14
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Lake Travis,0.12,0.09,0.13,0.12,0.14,0.1,0.06,0.17,0.03,0.14
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Frost Bank Tower,0.07,0.1,0.06,0.08,0.1,0.05,0.08,0.07,0.1,0.07
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Mount Bonnell,0.07,0.07,0.07,0.05,0.05,0.09,0.04,0.09,0.06,0.07
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Stevie Ray Vaughan Statue,0.06,0.05,0.07,0.04,0.06,0.08,0.06,0.07,0.06,0.07
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),The Bullock Texas State History Museum,0.05,0.03,0.05,0.01,0.04,0.06,0.05,0.04,0.03,0.05
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),The Driskill Hotel,0.04,0.02,0.05,0.05,0.04,0.04,0.04,0.04,0.05,0.04
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),The Moody Theater (ACL Live),0.02,0.01,0.03,0.02,0.04,0.02,0.03,0.02,0.03,0.02
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Graffiti Park at Castle Hills (Baylor Street),0.02,0.05,0.01,0.03,0.03,0.02,0.03,0.01,0.04,0.02
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Texas Governor's Mansion,0.02,0.03,0.02,0.01,0.03,0.02,0.02,0.02,0,0.02
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Long Center,0.02,0.01,0.02,0.01,0.02,0.02,0.02,0.02,0.02,0.02
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),Rainey Street,0.02,0.03,0.01,0.03,0.01,0.01,0.03,0,0.03,0.01
+Q35. Which three landmarks do you most strongly associate with Austin? (Select up to three),LBJ Presidential Library,0.01,0.01,0.01,0.01,0.03,0.01,0.01,0.01,0,0.02
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),The University of Texas at Austin,0.61,0.59,0.62,0.65,0.54,0.63,0.62,0.6,0.59,0.61
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Austin City Limits Music Festival,0.5,0.47,0.52,0.55,0.49,0.49,0.48,0.52,0.51,0.5
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),SXSW (South by Southwest),0.46,0.46,0.46,0.53,0.5,0.4,0.46,0.46,0.44,0.47
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Dell,0.32,0.2,0.38,0.3,0.37,0.29,0.26,0.37,0.23,0.34
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Whole Foods Market,0.31,0.29,0.33,0.32,0.37,0.28,0.32,0.31,0.38,0.29
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Alamo Drafthouse Cinema,0.29,0.35,0.26,0.3,0.35,0.26,0.3,0.29,0.28,0.3
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Capital City of Texas,0.29,0.23,0.32,0.27,0.3,0.29,0.29,0.29,0.29,0.29
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Amy's Ice Creams,0.19,0.23,0.16,0.16,0.15,0.22,0.24,0.13,0.23,0.17
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Broken Spoke Dance Hall,0.16,0.08,0.21,0.12,0.11,0.22,0.14,0.18,0.12,0.18
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Chuy's,0.15,0.16,0.14,0.12,0.17,0.14,0.13,0.17,0.11,0.16
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Torchy's Tacos,0.15,0.25,0.09,0.24,0.15,0.11,0.22,0.08,0.24,0.12
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Kerbey Lane Cafe,0.11,0.15,0.09,0.17,0.11,0.09,0.12,0.1,0.12,0.11
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Waterloo Records,0.1,0.07,0.12,0.07,0.1,0.12,0.12,0.09,0.14,0.09
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Formula One United States Grand Prix (at Circuit of the Americas),0.1,0.06,0.12,0.08,0.12,0.09,0.08,0.11,0.05,0.11
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Tito's Handmade Vodka,0.09,0.09,0.09,0.1,0.12,0.07,0.09,0.09,0.13,0.08
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Threadgill's,0.08,0.04,0.09,0.04,0.06,0.11,0.09,0.07,0.09,0.07
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),BookPeople,0.07,0.08,0.06,0.07,0.06,0.07,0.1,0.04,0.14,0.05
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Matt's El Rancho,0.06,0.02,0.09,0.02,0.04,0.1,0.07,0.06,0.08,0.06
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Republic of Texas Biker Rally,0.04,0.02,0.05,0.01,0.02,0.06,0.03,0.05,0.03,0.04
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Schlotzsky's,0.04,0.05,0.04,0.03,0.03,0.05,0.03,0.05,0.01,0.05
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Deep Eddy Vodka,0.03,0.06,0.02,0.03,0.04,0.03,0.05,0.02,0.06,0.02
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Juan in a Million,0.03,0.04,0.02,0.01,0.04,0.03,0.03,0.03,0.03,0.03
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),AMD (Advanced Micro Devices),0.03,0.01,0.04,0.01,0.01,0.04,0.02,0.04,0.03,0.03
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Sweet Leaf Tea Company,0.03,0.04,0.02,0.02,0.03,0.03,0.02,0.03,0.03,0.03
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),El Arroyo,0.02,0.02,0.02,0,0.01,0.04,0.02,0.02,0.02,0.02
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Tacodeli,0.02,0.05,0.01,0.03,0.04,0.01,0.03,0.01,0.04,0.01
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),McBride's Guns,0.02,0.01,0.02,0.02,0.01,0.02,0.01,0.03,0,0.02
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Austin Aztex,0.01,0.02,0.01,0.01,0.01,0.02,0.01,0.02,0.01,0.01
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Sup ATX,0.01,0.01,0.01,0,0,0.01,0.01,0,0.02,0
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Love Puppies Brownies,0.01,0.01,0,0.01,0,0.01,0.01,0,0.02,0
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),LaRue Tactical,0,0,0,0,0,0,0,0,0,0
+Q36. Which of the following brands do you think are most representative for Austin's identity? (Select up to five),Other,0,0.01,0,0.01,0.01,0,0,0.01,0,0.01
+Q37. Which one of the following do you consider the top thing Austin has gained due to its growth over the past five years?,Stronger economy,0.42,0.35,0.45,0.37,0.51,0.37,0.42,0.41,0.51,0.39
+Q37. Which one of the following do you consider the top thing Austin has gained due to its growth over the past five years?,More diversity,0.22,0.27,0.19,0.3,0.18,0.2,0.23,0.2,0.21,0.22
+Q37. Which one of the following do you consider the top thing Austin has gained due to its growth over the past five years?,More creativity,0.07,0.11,0.04,0.1,0.03,0.07,0.04,0.09,0.05,0.07
+Q37. Which one of the following do you consider the top thing Austin has gained due to its growth over the past five years?,Stronger sense of community,0.04,0.06,0.02,0.04,0.04,0.04,0.04,0.04,0.03,0.04
+Q37. Which one of the following do you consider the top thing Austin has gained due to its growth over the past five years?,Mass transit,0.07,0.08,0.06,0.05,0.06,0.09,0.08,0.06,0.04,0.08
+Q37. Which one of the following do you consider the top thing Austin has gained due to its growth over the past five years?,None of the above,0.19,0.13,0.23,0.14,0.18,0.23,0.2,0.19,0.16,0.2
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Lower cost of living,0.31,0.37,0.27,0.32,0.31,0.3,0.35,0.26,0.37,0.29
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Ease of transportation,0.23,0.21,0.24,0.27,0.24,0.2,0.17,0.29,0.19,0.24
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Less congested roads,0.23,0.21,0.24,0.26,0.27,0.19,0.21,0.24,0.16,0.24
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Small town feel,0.14,0.11,0.15,0.09,0.1,0.18,0.15,0.13,0.17,0.13
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Green space,0.03,0.04,0.03,0.02,0.03,0.04,0.04,0.03,0.03,0.03
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Stable neighborhoods,0.03,0.02,0.03,0.01,0.03,0.03,0.03,0.02,0.04,0.02
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,Historic homes throughout Austin,0.02,0.02,0.02,0.01,0,0.03,0.03,0.01,0.02,0.02
+Q38. Which one of the following do you consider the top thing Austin has lost due to its growth over the past five years?,None of the above,0.03,0.03,0.02,0.02,0.02,0.03,0.02,0.03,0.02,0.03
+Q39. Which one of the following cities do you believe Austin is most similar to?,Portland,0.21,0.24,0.19,0.25,0.25,0.16,0.27,0.15,0.32,0.17
+Q39. Which one of the following cities do you believe Austin is most similar to?,Seattle,0.14,0.09,0.16,0.11,0.13,0.15,0.11,0.16,0.13,0.14
+Q39. Which one of the following cities do you believe Austin is most similar to?,San Francisco,0.13,0.15,0.12,0.16,0.15,0.11,0.12,0.14,0.1,0.14
+Q39. Which one of the following cities do you believe Austin is most similar to?,San Antonio,0.11,0.14,0.09,0.04,0.12,0.14,0.1,0.12,0.06,0.13
+Q39. Which one of the following cities do you believe Austin is most similar to?,Dallas,0.1,0.11,0.1,0.06,0.09,0.12,0.09,0.11,0.09,0.1
+Q39. Which one of the following cities do you believe Austin is most similar to?,Nashville,0.09,0.06,0.11,0.12,0.08,0.09,0.09,0.1,0.1,0.09
+Q39. Which one of the following cities do you believe Austin is most similar to?,Houston,0.07,0.07,0.07,0.05,0.05,0.1,0.05,0.09,0.03,0.08
+Q39. Which one of the following cities do you believe Austin is most similar to?,Raleigh,0.03,0.02,0.03,0.03,0.02,0.03,0.03,0.02,0.03,0.02
+Q39. Which one of the following cities do you believe Austin is most similar to?,Boston,0.02,0.01,0.03,0.03,0.03,0.02,0.02,0.03,0.01,0.03
+Q39. Which one of the following cities do you believe Austin is most similar to?,New York City,0.02,0.04,0,0.05,0.01,0.01,0.03,0.01,0.03,0.01
+Q39. Which one of the following cities do you believe Austin is most similar to?,"Washington, D.C.",0.02,0.01,0.02,0.03,0.02,0.01,0.01,0.02,0.01,0.02
+Q39. Which one of the following cities do you believe Austin is most similar to?,Other,0.07,0.06,0.08,0.07,0.06,0.08,0.08,0.06,0.09,0.06
+"Q40. If you had to move somewhere else in Texas, which one of the following cities/areas would you prefer to move to?",San Antonio,0.27,0.33,0.24,0.34,0.24,0.27,0.28,0.27,0.26,0.28
+"Q40. If you had to move somewhere else in Texas, which one of the following cities/areas would you prefer to move to?",Further away from Austin,0.23,0.1,0.29,0.15,0.19,0.28,0.18,0.27,0.16,0.25
+"Q40. If you had to move somewhere else in Texas, which one of the following cities/areas would you prefer to move to?",Dallas/Ft. Worth,0.17,0.23,0.14,0.18,0.19,0.16,0.19,0.15,0.2,0.16
+"Q40. If you had to move somewhere else in Texas, which one of the following cities/areas would you prefer to move to?",Houston,0.1,0.15,0.08,0.13,0.15,0.07,0.13,0.08,0.16,0.09
+"Q40. If you had to move somewhere else in Texas, which one of the following cities/areas would you prefer to move to?",El Paso,0.02,0.01,0.02,0.02,0.03,0.01,0.02,0.02,0.03,0.01
+"Q40. If you had to move somewhere else in Texas, which one of the following cities/areas would you prefer to move to?",Other,0.2,0.17,0.22,0.18,0.2,0.22,0.2,0.21,0.2,0.21
+"Q41. Is Austin more a town of the past, present or future?",Past,0.08,0.07,0.09,0.09,0.08,0.09,0.09,0.08,0.05,0.09
+"Q41. Is Austin more a town of the past, present or future?",Present,0.41,0.45,0.39,0.45,0.42,0.39,0.41,0.41,0.48,0.39
+"Q41. Is Austin more a town of the past, present or future?",Future,0.37,0.36,0.37,0.38,0.35,0.37,0.37,0.36,0.31,0.38
+"Q41. Is Austin more a town of the past, present or future?",Unknown,0.14,0.12,0.15,0.08,0.14,0.16,0.13,0.14,0.15,0.13
+"Q42. If you were in charge of Austin, what would your main plan for the city be?",Build for the future,0.58,0.62,0.56,0.59,0.67,0.52,0.57,0.59,0.53,0.59
+"Q42. If you were in charge of Austin, what would your main plan for the city be?",Protect Austin as it is now,0.21,0.2,0.22,0.26,0.2,0.2,0.21,0.21,0.27,0.2
+"Q42. If you were in charge of Austin, what would your main plan for the city be?",Return Austin to how it was in the past,0.21,0.18,0.22,0.15,0.13,0.28,0.22,0.2,0.2,0.21
+Q43. What slogan best represents the Austin of today?,“Keep Austin Weird”,0.29,0.37,0.26,0.44,0.23,0.27,0.32,0.27,0.28,0.3
+Q43. What slogan best represents the Austin of today?,“Live Music Capital of the World”,0.26,0.26,0.27,0.22,0.27,0.28,0.21,0.31,0.2,0.28
+Q43. What slogan best represents the Austin of today?,There's no one slogan that best represents the Austin of today,0.22,0.18,0.25,0.16,0.26,0.23,0.23,0.22,0.27,0.21
+Q43. What slogan best represents the Austin of today?,“Don't Dallas My Austin”,0.1,0.12,0.08,0.07,0.1,0.1,0.14,0.06,0.16,0.08
+Q43. What slogan best represents the Austin of today?,“Bat City”,0.01,0,0.01,0.01,0.01,0.01,0.01,0.01,0,0.01
+Q43. What slogan best represents the Austin of today?,I don't know,0.07,0.04,0.09,0.08,0.07,0.07,0.05,0.1,0.03,0.09
+Q43. What slogan best represents the Austin of today?,I have my own,0.04,0.03,0.05,0.03,0.06,0.04,0.05,0.04,0.06,0.04
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: Transportation (e.g., Speed and efficiency)",1st Priority,0.56,0.48,0.61,0.53,0.57,0.57,0.54,0.58,0.5,0.58
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: Transportation (e.g., Speed and efficiency)",2nd Priority,0.27,0.29,0.27,0.24,0.28,0.28,0.31,0.24,0.31,0.26
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: Transportation (e.g., Speed and efficiency)",3rd Priority,0.16,0.23,0.13,0.22,0.15,0.15,0.15,0.17,0.19,0.16
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: People (e.g., Quality of life)",1st Priority,0.33,0.38,0.31,0.38,0.31,0.32,0.35,0.32,0.41,0.31
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: People (e.g., Quality of life)",2nd Priority,0.37,0.33,0.39,0.34,0.34,0.4,0.39,0.35,0.41,0.36
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: People (e.g., Quality of life)",3rd Priority,0.3,0.29,0.31,0.29,0.34,0.28,0.26,0.34,0.18,0.33
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: Commerce (e.g., Jobs, businesses and institutions)",1st Priority,0.11,0.14,0.09,0.09,0.12,0.11,0.11,0.1,0.1,0.11
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: Commerce (e.g., Jobs, businesses and institutions)",2nd Priority,0.36,0.38,0.35,0.42,0.37,0.32,0.3,0.41,0.28,0.38
+"Q44. Please rank the following that you would like prioritized for the future development of Austin: Commerce (e.g., Jobs, businesses and institutions)",3rd Priority,0.54,0.48,0.57,0.49,0.51,0.57,0.59,0.49,0.62,0.51
+Q45. Which feature of other major cities would most benefit Austin?,Major sports team,0.18,0.18,0.18,0.19,0.17,0.18,0.13,0.22,0.12,0.2
+Q45. Which feature of other major cities would most benefit Austin?,Major art and cultural institutions and museums,0.26,0.31,0.24,0.32,0.28,0.23,0.31,0.22,0.32,0.25
+Q45. Which feature of other major cities would most benefit Austin?,Both,0.33,0.34,0.32,0.3,0.33,0.34,0.34,0.31,0.35,0.32
+Q45. Which feature of other major cities would most benefit Austin?,Neither,0.23,0.18,0.26,0.19,0.22,0.25,0.21,0.24,0.21,0.24
+Q46. Whose town is this anyway?  (A haven for Millennials (born 1980 or after)/ young person's town)(A Gen X/Baby Boomer town (born before 1980)),A haven for Millennials (born 1980 or after)/ young person's town,0.74,0.88,0.67,0.82,0.73,0.72,0.74,0.74,0.78,0.73
+Q46. Whose town is this anyway?  (A haven for Millennials (born 1980 or after)/ young person's town)(A Gen X/Baby Boomer town (born before 1980)),A Gen X/Baby Boomer town (born before 1980),0.26,0.12,0.33,0.18,0.27,0.28,0.26,0.26,0.22,0.27
+Q46. Whose town is this anyway?  (University of Texas' town)(Texas State Government's town),University of Texas' town,0.75,0.8,0.73,0.8,0.76,0.73,0.78,0.72,0.84,0.73
+Q46. Whose town is this anyway?  (University of Texas' town)(Texas State Government's town),Texas State Government's town,0.25,0.2,0.27,0.2,0.24,0.27,0.22,0.28,0.16,0.27
+Q46. Whose town is this anyway?  (A town for families)(A town for singles),A town for families,0.31,0.27,0.33,0.33,0.23,0.36,0.33,0.3,0.29,0.32
+Q46. Whose town is this anyway?  (A town for families)(A town for singles),A town for singles,0.69,0.73,0.67,0.67,0.77,0.64,0.67,0.7,0.71,0.68
+Q47. Do you think Austin has enough green and/or open spaces?,Definitely,0.21,0.25,0.18,0.24,0.25,0.16,0.21,0.2,0.21,0.2
+Q47. Do you think Austin has enough green and/or open spaces?,Somewhat,0.51,0.55,0.48,0.55,0.5,0.49,0.52,0.49,0.55,0.49
+Q47. Do you think Austin has enough green and/or open spaces?,Not really,0.24,0.18,0.28,0.15,0.21,0.31,0.21,0.27,0.2,0.26
+Q47. Do you think Austin has enough green and/or open spaces?,Not at all,0.05,0.01,0.06,0.05,0.05,0.04,0.05,0.04,0.04,0.05
+Q48. How concerned are you that rapid development and new construction projects threaten Austin's green and/or open spaces?,Very concerned,0.35,0.31,0.37,0.28,0.3,0.41,0.37,0.33,0.4,0.34
+Q48. How concerned are you that rapid development and new construction projects threaten Austin's green and/or open spaces?,Somewhat concerned,0.43,0.45,0.41,0.45,0.45,0.4,0.43,0.42,0.42,0.43
+Q48. How concerned are you that rapid development and new construction projects threaten Austin's green and/or open spaces?,Not very concerned,0.15,0.15,0.15,0.16,0.17,0.13,0.13,0.17,0.1,0.16
+Q48. How concerned are you that rapid development and new construction projects threaten Austin's green and/or open spaces?,Not concerned at all,0.05,0.06,0.05,0.06,0.07,0.04,0.06,0.05,0.07,0.05
+Q48. How concerned are you that rapid development and new construction projects threaten Austin's green and/or open spaces?,Unsure,0.02,0.04,0.01,0.05,0.01,0.01,0.02,0.02,0.01,0.02
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Zilker Park,0.57,0.63,0.54,0.53,0.58,0.58,0.61,0.53,0.63,0.55
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Lake Travis and the surrounding area,0.34,0.31,0.36,0.31,0.36,0.35,0.3,0.39,0.22,0.38
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Your neighborhood park,0.27,0.24,0.28,0.24,0.29,0.27,0.3,0.24,0.23,0.28
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Barton Creek Greenbelt,0.24,0.35,0.19,0.26,0.21,0.26,0.3,0.19,0.35,0.21
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Ann and Roy Butler Hike-and-Bike Trail at Lady Bird Lake (aka Town Lake Trail),0.22,0.21,0.23,0.17,0.24,0.24,0.28,0.17,0.36,0.18
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),The Boardwalk Trail at Lady Bird Lake,0.17,0.18,0.17,0.17,0.24,0.14,0.19,0.16,0.25,0.15
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Shoal Creek,0.07,0.06,0.07,0.07,0.03,0.09,0.09,0.04,0.11,0.05
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Colorado River Wildlife Sanctuary,0.05,0.07,0.05,0.07,0.04,0.06,0.05,0.06,0.05,0.06
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Waller Creek Greenbelt,0.03,0.07,0.02,0.05,0.03,0.03,0.04,0.03,0.05,0.03
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Butler Park,0.02,0.03,0.01,0.02,0.01,0.02,0.02,0.02,0.04,0.01
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),Other,0.03,0.03,0.03,0.02,0.03,0.04,0.05,0.02,0.05,0.03
+Q49. Which green and/or open spaces in and around Austin do you personally enjoy the most? (Select up to three),None,0.1,0.06,0.12,0.1,0.1,0.1,0.06,0.14,0.05,0.12
+"Q50. Do you believe that pets in Austin are in public spaces, such as restaurant patios, too much?",Definitely,0.23,0.13,0.28,0.19,0.25,0.23,0.17,0.29,0.19,0.24
+"Q50. Do you believe that pets in Austin are in public spaces, such as restaurant patios, too much?",Somewhat,0.24,0.22,0.26,0.21,0.24,0.26,0.24,0.25,0.28,0.23
+"Q50. Do you believe that pets in Austin are in public spaces, such as restaurant patios, too much?",Not really,0.32,0.38,0.29,0.36,0.33,0.3,0.33,0.31,0.29,0.33
+"Q50. Do you believe that pets in Austin are in public spaces, such as restaurant patios, too much?",Not at all,0.2,0.28,0.16,0.23,0.19,0.2,0.26,0.15,0.23,0.19
+"Q51. In your life, with which group do you feel the strongest sense of community?",People from your neighborhood,0.19,0.14,0.21,0.11,0.21,0.2,0.14,0.23,0.15,0.2
+"Q51. In your life, with which group do you feel the strongest sense of community?",People from work,0.18,0.19,0.17,0.15,0.16,0.2,0.18,0.18,0.14,0.19
+"Q51. In your life, with which group do you feel the strongest sense of community?",People you know through hobbies,0.13,0.19,0.1,0.22,0.14,0.09,0.14,0.13,0.18,0.12
+"Q51. In your life, with which group do you feel the strongest sense of community?",People from your religious community,0.12,0.1,0.14,0.1,0.12,0.13,0.11,0.13,0.04,0.15
+"Q51. In your life, with which group do you feel the strongest sense of community?",People from your city generally,0.11,0.08,0.12,0.11,0.12,0.1,0.13,0.08,0.15,0.09
+"Q51. In your life, with which group do you feel the strongest sense of community?",People you know through school,0.1,0.16,0.07,0.14,0.07,0.1,0.11,0.1,0.16,0.08
+"Q51. In your life, with which group do you feel the strongest sense of community?",People you know through non-work organizations,0.07,0.02,0.09,0.05,0.08,0.06,0.07,0.06,0.06,0.07
+"Q51. In your life, with which group do you feel the strongest sense of community?",People from your ethnic background,0.06,0.08,0.05,0.07,0.07,0.06,0.08,0.04,0.09,0.06
+"Q51. In your life, with which group do you feel the strongest sense of community?",Online communities,0.05,0.03,0.05,0.05,0.04,0.05,0.04,0.05,0.04,0.05
+"Q52. In your opinion, how often do you take advantage of Austin's cultural offerings?",Frequently,0.14,0.19,0.12,0.12,0.14,0.15,0.19,0.1,0.23,0.12
+"Q52. In your opinion, how often do you take advantage of Austin's cultural offerings?",Sometimes,0.48,0.46,0.5,0.48,0.48,0.49,0.52,0.45,0.5,0.48
+"Q52. In your opinion, how often do you take advantage of Austin's cultural offerings?",Rarely,0.31,0.27,0.34,0.33,0.34,0.29,0.26,0.36,0.23,0.34
+"Q52. In your opinion, how often do you take advantage of Austin's cultural offerings?",Never,0.06,0.08,0.05,0.07,0.04,0.07,0.03,0.09,0.05,0.06
+Q53. How often do you attend religious services?,Weekly or more often,0.21,0.17,0.24,0.19,0.23,0.21,0.16,0.27,0.13,0.24
+Q53. How often do you attend religious services?,1-2 times per month,0.1,0.1,0.09,0.06,0.08,0.12,0.11,0.09,0.09,0.1
+Q53. How often do you attend religious services?,Every 1-2 months,0.06,0.07,0.05,0.06,0.05,0.06,0.08,0.04,0.05,0.06
+Q53. How often do you attend religious services?,A few times per year,0.14,0.11,0.16,0.15,0.13,0.14,0.11,0.17,0.14,0.14
+Q53. How often do you attend religious services?,Once a year or less,0.17,0.12,0.2,0.12,0.19,0.19,0.17,0.18,0.18,0.17
+Q53. How often do you attend religious services?,Don't know,0.03,0.04,0.02,0.02,0.03,0.03,0.02,0.04,0.02,0.03
+Q53. How often do you attend religious services?,I am not religious,0.29,0.39,0.23,0.39,0.3,0.24,0.36,0.22,0.4,0.25
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Young adults without children,0.88,0.93,0.86,0.92,0.91,0.85,0.89,0.88,0.91,0.87
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)","LGBT (lesbian, gay, bisexual, and transgender)",0.82,0.86,0.8,0.83,0.83,0.82,0.86,0.78,0.92,0.79
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Asian Americans,0.76,0.78,0.75,0.8,0.78,0.73,0.78,0.74,0.76,0.76
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Young college graduates looking for work,0.75,0.77,0.75,0.81,0.77,0.72,0.74,0.77,0.73,0.76
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Hispanics,0.72,0.78,0.68,0.78,0.71,0.69,0.76,0.68,0.72,0.71
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Families with young children,0.7,0.74,0.69,0.7,0.74,0.68,0.74,0.67,0.73,0.69
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",The middle class,0.66,0.77,0.6,0.66,0.7,0.62,0.67,0.65,0.69,0.65
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",People over the age of 50,0.59,0.58,0.59,0.58,0.6,0.59,0.6,0.58,0.62,0.58
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Single parents,0.58,0.6,0.57,0.56,0.6,0.58,0.62,0.54,0.57,0.58
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",African Americans,0.58,0.64,0.55,0.62,0.56,0.58,0.56,0.61,0.5,0.61
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",Immigrants,0.53,0.57,0.51,0.62,0.47,0.53,0.53,0.53,0.54,0.53
+"Q54. Please rate, on a scale from zero to ten, how well-suited Austin is as a place to live for the following groups. (Reporting 6-10 Well-suited)",The poor,0.25,0.27,0.24,0.28,0.24,0.24,0.25,0.25,0.25,0.25
+Q55. Do you follow any specific diet? (Select all that apply),"No, I don't have a specific diet",0.79,0.78,0.8,0.76,0.79,0.81,0.75,0.83,0.73,0.81
+Q55. Do you follow any specific diet? (Select all that apply),Gluten,0.06,0.09,0.05,0.06,0.05,0.07,0.07,0.05,0.08,0.05
+Q55. Do you follow any specific diet? (Select all that apply),Vegetarian,0.05,0.07,0.05,0.1,0.05,0.04,0.08,0.03,0.12,0.04
+Q55. Do you follow any specific diet? (Select all that apply),Lactose Intolerant,0.05,0.05,0.05,0.04,0.06,0.06,0.07,0.03,0.06,0.05
+Q55. Do you follow any specific diet? (Select all that apply),Paleo,0.04,0.05,0.03,0.04,0.04,0.04,0.04,0.04,0.07,0.03
+Q55. Do you follow any specific diet? (Select all that apply),Vegan,0.02,0.03,0.01,0.02,0.01,0.02,0.03,0.01,0.03,0.01
+Q55. Do you follow any specific diet? (Select all that apply),Other special diet,0.05,0.04,0.06,0.03,0.06,0.06,0.08,0.03,0.08,0.05
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",SXSW (South by Southwest),0.86,0.86,0.86,0.92,0.87,0.83,0.87,0.86,0.89,0.85
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Austin City Limits Music Festival,0.86,0.88,0.84,0.9,0.86,0.83,0.87,0.84,0.89,0.85
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",UT Football Games,0.8,0.83,0.79,0.84,0.81,0.79,0.79,0.82,0.76,0.82
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",ACL Live at The Moody Theater,0.72,0.74,0.71,0.79,0.75,0.67,0.75,0.69,0.77,0.7
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Pecan Street Festival,0.63,0.67,0.61,0.59,0.6,0.66,0.65,0.61,0.64,0.63
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Zilker Kite Festival,0.6,0.73,0.53,0.68,0.57,0.59,0.61,0.59,0.63,0.59
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Formula One United States Grand Prix (at Circuit of the Americas),0.57,0.62,0.55,0.6,0.61,0.54,0.54,0.61,0.49,0.6
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Austin Food & Wine Festival,0.55,0.67,0.49,0.69,0.54,0.5,0.54,0.56,0.53,0.55
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Blues on the Green,0.52,0.65,0.45,0.55,0.49,0.52,0.56,0.48,0.63,0.49
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",FUN FUN FUN FEST,0.48,0.6,0.42,0.61,0.45,0.45,0.51,0.45,0.58,0.45
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",The Texas Relays,0.48,0.48,0.47,0.47,0.44,0.5,0.43,0.52,0.38,0.5
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Republic of Texas Biker Rally,0.45,0.53,0.41,0.48,0.43,0.45,0.42,0.48,0.4,0.46
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",X Games,0.44,0.53,0.4,0.48,0.44,0.43,0.39,0.49,0.38,0.46
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Ballet Austin,0.44,0.54,0.39,0.39,0.39,0.49,0.49,0.39,0.46,0.44
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Marley Fest/Austin Reggae Festival,0.44,0.6,0.35,0.53,0.42,0.42,0.45,0.42,0.45,0.43
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Eeyore's Birthday Party,0.4,0.49,0.35,0.41,0.33,0.43,0.46,0.33,0.52,0.36
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Austin Startup Week,0.39,0.6,0.28,0.61,0.37,0.32,0.43,0.36,0.44,0.38
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Austin Lyric Opera,0.37,0.45,0.33,0.4,0.32,0.39,0.37,0.37,0.31,0.39
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",African American Community Heritage Festival (AACHF),0.35,0.48,0.29,0.47,0.32,0.33,0.38,0.33,0.39,0.34
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Brazilian Carnival,0.25,0.38,0.18,0.4,0.23,0.21,0.26,0.24,0.27,0.25
+"Q56. How important do you think these organizations, events, and/or festivals are to Austin's identity? (Reporting Extremely/Very Important, and excluding Don't know)",Fusebox Festival,0.25,0.38,0.18,0.34,0.21,0.24,0.22,0.28,0.21,0.26
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Austin City Limits Music Festival,0.42,0.52,0.37,0.42,0.43,0.41,0.49,0.36,0.59,0.37
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",SXSW (South by Southwest),0.4,0.52,0.33,0.46,0.39,0.37,0.44,0.36,0.52,0.36
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",UT Football Games,0.38,0.42,0.36,0.33,0.37,0.41,0.39,0.38,0.43,0.37
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Pecan Street Festival,0.34,0.36,0.33,0.25,0.3,0.4,0.35,0.33,0.36,0.33
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",ACL Live at The Moody Theater,0.32,0.35,0.31,0.34,0.35,0.3,0.38,0.27,0.43,0.29
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Zilker Kite Festival,0.28,0.37,0.24,0.28,0.27,0.28,0.32,0.24,0.31,0.27
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Blues on the Green,0.26,0.38,0.2,0.27,0.26,0.26,0.32,0.21,0.38,0.23
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Austin Food & Wine Festival,0.25,0.34,0.2,0.31,0.23,0.24,0.26,0.23,0.23,0.25
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",FUN FUN FUN FEST,0.23,0.32,0.18,0.32,0.2,0.21,0.26,0.2,0.3,0.21
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Formula One United States Grand Prix (at Circuit of the Americas),0.22,0.27,0.2,0.25,0.2,0.23,0.22,0.23,0.23,0.22
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Eeyore's Birthday Party,0.19,0.22,0.17,0.19,0.13,0.22,0.24,0.13,0.25,0.17
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Ballet Austin,0.18,0.22,0.16,0.17,0.18,0.19,0.21,0.15,0.2,0.17
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Marley Fest/Austin Reggae Festival,0.18,0.27,0.13,0.2,0.16,0.18,0.2,0.16,0.2,0.17
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",The Texas Relays,0.16,0.22,0.14,0.16,0.14,0.18,0.16,0.17,0.15,0.17
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",X Games,0.15,0.24,0.11,0.18,0.15,0.14,0.15,0.15,0.11,0.16
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Republic of Texas Biker Rally,0.14,0.17,0.13,0.12,0.13,0.16,0.13,0.16,0.11,0.15
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",African American Community Heritage Festival (AACHF),0.14,0.22,0.09,0.15,0.14,0.13,0.15,0.12,0.15,0.13
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Austin Startup Week,0.14,0.24,0.08,0.17,0.13,0.12,0.13,0.14,0.16,0.13
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Austin Lyric Opera,0.14,0.17,0.12,0.12,0.13,0.14,0.15,0.12,0.14,0.13
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Brazilian Carnival,0.11,0.17,0.08,0.09,0.11,0.11,0.12,0.09,0.12,0.1
+"Q57. How important are these organizations, events, and/or festivals are to you personally? (Reporting Extremely/Very Important, and excluding Don't know)",Fusebox Festival,0.07,0.13,0.05,0.09,0.08,0.06,0.07,0.08,0.08,0.07
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Summer Olympic Games,0.31,0.36,0.28,0.33,0.29,0.32,0.3,0.33,0.26,0.33
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Super Bowl,0.3,0.34,0.27,0.29,0.27,0.32,0.26,0.33,0.2,0.33
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Presidential Debate,0.22,0.21,0.23,0.23,0.24,0.21,0.27,0.18,0.31,0.19
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Democratic or Republican National Convention,0.19,0.16,0.2,0.13,0.24,0.18,0.22,0.16,0.26,0.17
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Soccer World Cup,0.17,0.22,0.15,0.2,0.2,0.14,0.23,0.12,0.24,0.15
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Major Professional Golf Association (PGA) tournament,0.14,0.08,0.17,0.09,0.17,0.14,0.1,0.17,0.11,0.14
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Miss America/Miss Universe,0.08,0.11,0.06,0.12,0.06,0.08,0.07,0.09,0.07,0.08
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),Other,0.02,0.01,0.02,0.04,0.02,0.01,0.02,0.02,0.01,0.02
+Q58. Which two of the following events would you most support Austin hosting? (Select up to two.),None of the above,0.19,0.16,0.21,0.17,0.18,0.2,0.18,0.2,0.16,0.2
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Traffic congestion,0.71,0.59,0.76,0.61,0.74,0.74,0.63,0.78,0.6,0.74
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Too expensive,0.35,0.35,0.35,0.44,0.34,0.31,0.35,0.34,0.32,0.35
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Lacking infrastructure,0.31,0.15,0.37,0.22,0.35,0.32,0.36,0.26,0.38,0.29
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Would not benefit me,0.28,0.32,0.26,0.22,0.3,0.28,0.26,0.29,0.23,0.29
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Austin should pull back from the “big events” business,0.16,0.11,0.17,0.1,0.16,0.17,0.18,0.14,0.23,0.14
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Too corporate,0.14,0.15,0.13,0.11,0.18,0.12,0.16,0.11,0.21,0.12
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Too political,0.13,0.15,0.13,0.08,0.25,0.09,0.09,0.17,0.08,0.15
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Don't want Austin to lose its “weird” factor,0.08,0.12,0.06,0.1,0.04,0.08,0.11,0.05,0.19,0.05
+Q59. Why would you not want Austin to host those major events? (Select up to three.),Other,0.02,0,0.03,0,0,0.05,0.03,0.02,0.07,0.01
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),"Festivals (e.g., South by Southwest, ACL Music Festival, Austin Chamber Music Festival, FUN FUN FUN FEST)",0.67,0.77,0.61,0.75,0.7,0.61,0.69,0.64,0.8,0.62
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),"Free Concerts (e.g., Blues on the Green, Texas Radio Live)",0.63,0.73,0.58,0.7,0.6,0.62,0.67,0.59,0.76,0.59
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),"Museums (e.g., Blanton Museum of Art, Mexic",0.6,0.62,0.59,0.64,0.53,0.63,0.62,0.58,0.65,0.58
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),"Performing Arts (e.g., Ballet Austin, ZACH Theatre)",0.57,0.65,0.52,0.58,0.51,0.6,0.61,0.52,0.64,0.54
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),"Comedy Shows (e.g., Esther's Follies, Cap City Comedy Club, Moontower Comedy Festival)",0.53,0.62,0.48,0.58,0.53,0.51,0.52,0.54,0.59,0.51
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),"Art (e.g., The East Austin Handmade Arts Market, Art City Austin, East Austin Studio Tour)",0.5,0.61,0.43,0.59,0.46,0.48,0.56,0.43,0.6,0.46
+Q60. How satisfied are you with the following creative offerings in Austin? (Reporting Extremely/Very Satisfied),Creative camps/classes geared toward children,0.49,0.55,0.46,0.51,0.51,0.48,0.52,0.47,0.56,0.48
+Q61. Which of the following statements best characterizes your feelings about Austin's creative culture?,The creative culture in Austin is what makes this a great city to live in,0.41,0.51,0.35,0.51,0.4,0.37,0.44,0.38,0.48,0.39
+Q61. Which of the following statements best characterizes your feelings about Austin's creative culture?,The creative culture in Austin has been pushed out by a booming population and changing economy,0.26,0.23,0.28,0.15,0.23,0.32,0.31,0.21,0.35,0.23
+Q61. Which of the following statements best characterizes your feelings about Austin's creative culture?,The creative culture in Austin has a minimal impact on my life,0.21,0.13,0.26,0.19,0.26,0.2,0.17,0.26,0.12,0.24
+Q61. Which of the following statements best characterizes your feelings about Austin's creative culture?,I don't care about the creative culture in Austin,0.06,0.05,0.07,0.07,0.05,0.07,0.03,0.09,0.02,0.07
+Q61. Which of the following statements best characterizes your feelings about Austin's creative culture?,Don't know,0.06,0.08,0.04,0.08,0.07,0.04,0.05,0.06,0.04,0.06
+Q62. How many tattoos do you have?,0,0.71,0.63,0.74,0.67,0.71,0.72,0.69,0.72,0.68,0.71
+Q62. How many tattoos do you have?,1,0.08,0.11,0.07,0.09,0.08,0.08,0.1,0.07,0.09,0.08
+Q62. How many tattoos do you have?,2,0.07,0.08,0.07,0.1,0.06,0.07,0.06,0.08,0.06,0.07
+Q62. How many tattoos do you have?,3,0.04,0.07,0.03,0.05,0.03,0.04,0.05,0.03,0.06,0.03
+Q62. How many tattoos do you have?,4,0.02,0.03,0.02,0.02,0.02,0.02,0.02,0.02,0.01,0.02
+Q62. How many tattoos do you have?,5 or more,0.07,0.08,0.07,0.07,0.09,0.06,0.08,0.07,0.08,0.07
+Q62. How many tattoos do you have?,Prefer not to answer,0.01,0,0.01,0.01,0.01,0,0.01,0,0.01,0
+S1. In which language would you prefer to take this survey?,English/Inglés,0.99,0.98,0.99,1,0.96,0.99,0.97,1,0.98,0.99
+S1. In which language would you prefer to take this survey?,Spanish/Español,0.01,0.02,0.01,0,0.04,0.01,0.03,0,0.02,0.01
+S2. In which of the following Texas counties do you live?,Travis,0.58,0.66,0.54,0.59,0.55,0.6,1,0.19,0.99,0.46
+S2. In which of the following Texas counties do you live?,Williamson,0.24,0.22,0.25,0.22,0.3,0.2,0,0.46,0.01,0.31
+S2. In which of the following Texas counties do you live?,Hays,0.11,0.09,0.12,0.12,0.11,0.1,0,0.21,0,0.14
+S2. In which of the following Texas counties do you live?,Bastrop,0.05,0.03,0.06,0.03,0.01,0.08,0,0.09,0,0.06
+S2. In which of the following Texas counties do you live?,Caldwell,0.03,0.01,0.03,0.04,0.02,0.02,0,0.05,0,0.03
+S3. What is your zip code? (Responses netted),Central Austin,0.23,0.35,0.17,0.3,0.2,0.21,0.45,0.02,1,0
+S3. What is your zip code? (Responses netted),Not Central Austin,0.77,0.65,0.83,0.7,0.8,0.79,0.55,0.98,0,1
+S4. Do you live in the City of Austin?,Yes,0.48,0.6,0.42,0.52,0.46,0.49,1,0,0.96,0.34
+S4. Do you live in the City of Austin?,No,0.52,0.4,0.58,0.48,0.54,0.51,0,1,0.04,0.66
+S5. What is your gender?,Male,0.5,0.4,0.55,0.46,0.57,0.47,0.49,0.51,0.57,0.48
+S5. What is your gender?,Female,0.5,0.6,0.45,0.54,0.43,0.53,0.51,0.49,0.43,0.52
+S6. What is your age? (Generational netted categories reported.),18-34,0.35,1,0,0.58,0.29,0.28,0.43,0.27,0.53,0.3
+S6. What is your age? (Generational netted categories reported.),35-44,0.2,0,0.3,0.16,0.25,0.17,0.21,0.18,0.17,0.2
+S6. What is your age? (Generational netted categories reported.),45-64,0.34,0,0.52,0.22,0.34,0.4,0.29,0.39,0.26,0.37
+S6. What is your age? (Generational netted categories reported.),65+ years,0.12,0,0.18,0.04,0.11,0.15,0.07,0.16,0.04,0.14
+S7. Which of the following income groups includes your estimated total household income last year before taxes?,"Up to $25,000",0.19,0.31,0.13,0.27,0.16,0.18,0.22,0.17,0.29,0.17
+S7. Which of the following income groups includes your estimated total household income last year before taxes?,"$25,000 - $49,999",0.24,0.28,0.21,0.23,0.21,0.25,0.25,0.22,0.2,0.24
+S7. Which of the following income groups includes your estimated total household income last year before taxes?,"$50,000 - $99,999",0.31,0.24,0.34,0.3,0.29,0.32,0.3,0.31,0.27,0.32
+S7. Which of the following income groups includes your estimated total household income last year before taxes?,"$100,000 - $199,999",0.21,0.13,0.25,0.16,0.29,0.18,0.17,0.24,0.13,0.23
+S7. Which of the following income groups includes your estimated total household income last year before taxes?,"$200,000 or more",0.06,0.04,0.07,0.04,0.06,0.07,0.06,0.06,0.11,0.04
+"S8. Are you of Hispanic, Latino or Spanish origin?","No, not of Hispanic, Latino, or Spanish origin",0.68,0.57,0.74,0.72,0.69,0.66,0.66,0.7,0.61,0.7
+"S8. Are you of Hispanic, Latino or Spanish origin?","Yes, Mexican, Mexican American, Chicano",0.23,0.32,0.18,0.22,0.19,0.25,0.21,0.24,0.27,0.22
+"S8. Are you of Hispanic, Latino or Spanish origin?","Yes, Puerto Rican",0.02,0.02,0.02,0.01,0.04,0.01,0.03,0.01,0.02,0.02
+"S8. Are you of Hispanic, Latino or Spanish origin?","Yes, Cuban",0.01,0.02,0.01,0.01,0.02,0.01,0.02,0.01,0.01,0.01
+"S8. Are you of Hispanic, Latino or Spanish origin?","Yes, another Hispanic, Latino, or Spanish origin",0.06,0.09,0.05,0.04,0.07,0.07,0.09,0.04,0.1,0.05
+S9. What is your race? (Please select all that apply.),White,0.79,0.7,0.84,0.79,0.78,0.8,0.74,0.83,0.77,0.8
+S9. What is your race? (Please select all that apply.),"Black, African American",0.07,0.11,0.06,0.08,0.07,0.07,0.09,0.06,0.06,0.08
+S9. What is your race? (Please select all that apply.),American Indian or Alaska Native,0.01,0.01,0.02,0.02,0.01,0.02,0.01,0.02,0.02,0.01
+S9. What is your race? (Please select all that apply.),Asian,0.05,0.09,0.03,0.09,0.06,0.03,0.06,0.04,0.06,0.05
+S9. What is your race? (Please select all that apply.),Native Hawaiian/Other Pacific Islander,0.01,0.01,0.01,0,0.02,0.01,0.02,0,0.01,0.01
+S9. What is your race? (Please select all that apply.),Other,0.07,0.11,0.05,0.04,0.07,0.09,0.08,0.06,0.1,0.07
+S10. Do you have any children under age 18 currently living in your household?,Yes,0.31,0.36,0.28,0.23,0.32,0.33,0.28,0.34,0.2,0.34
+S10. Do you have any children under age 18 currently living in your household?,No,0.69,0.64,0.72,0.77,0.68,0.67,0.72,0.66,0.8,0.66
+S11. How many children under 18 do you have living at home?,1,0.49,0.48,0.5,0.39,0.49,0.52,0.51,0.47,0.44,0.5
+S11. How many children under 18 do you have living at home?,2,0.32,0.3,0.33,0.3,0.26,0.36,0.36,0.28,0.37,0.31
+S11. How many children under 18 do you have living at home?,3,0.15,0.19,0.12,0.24,0.18,0.1,0.1,0.18,0.14,0.15
+S11. How many children under 18 do you have living at home?,4,0.03,0.03,0.03,0.02,0.06,0.01,0.01,0.04,0,0.03
+S11. How many children under 18 do you have living at home?,5 or more,0.02,0,0.03,0.05,0.02,0.01,0.02,0.02,0.05,0.02
+D1. Were you raised in the Austin area?,Yes,0.29,0.38,0.24,0,0,0.59,0.32,0.25,0.29,0.29
+D1. Were you raised in the Austin area?,No,0.71,0.62,0.76,1,1,0.41,0.68,0.75,0.71,0.71
+"D2. In what year did you move to the Austin area? (Reported as number of years in Austin netted, including the life span of those raised in Austin D1.)",0-5 years,0.21,0.35,0.14,1,0,0,0.23,0.2,0.28,0.19
+"D2. In what year did you move to the Austin area? (Reported as number of years in Austin netted, including the life span of those raised in Austin D1.)",6-20 years,0.3,0.26,0.33,0,1,0,0.28,0.32,0.27,0.31
+"D2. In what year did you move to the Austin area? (Reported as number of years in Austin netted, including the life span of those raised in Austin D1.)",21+ years,0.49,0.39,0.54,0,0,1,0.49,0.48,0.45,0.5
+D3. What is the last grade of school you completed? (Responses netted),High school grad or less,0.16,0.18,0.15,0.06,0.16,0.2,0.11,0.21,0.08,0.18
+D3. What is the last grade of school you completed? (Responses netted),Some college,0.43,0.47,0.41,0.52,0.31,0.47,0.41,0.45,0.45,0.42
+D3. What is the last grade of school you completed? (Responses netted),College+,0.41,0.35,0.44,0.41,0.53,0.33,0.48,0.34,0.45,0.39
+D3. What is the last grade of school you completed? (Responses netted),Prefer not to answer,0,0.01,0,0.01,0,0,0,0,0.01,0
+D4. Which of the following best describes your current employment status?,Employed full time,0.48,0.48,0.47,0.35,0.59,0.46,0.58,0.38,0.53,0.46
+D4. Which of the following best describes your current employment status?,Employed part time,0.1,0.16,0.08,0.15,0.1,0.09,0.11,0.1,0.11,0.1
+D4. Which of the following best describes your current employment status?,"Under-employed given my skills, but working full time",0.01,0.01,0.01,0.02,0,0.01,0.01,0.01,0.01,0.01
+D4. Which of the following best describes your current employment status?,"Under-employed given my skills, working part time",0.02,0.02,0.02,0.04,0.01,0.01,0.02,0.02,0.02,0.01
+D4. Which of the following best describes your current employment status?,Full-time homemaker,0.07,0.1,0.06,0.09,0.06,0.07,0.04,0.1,0.05,0.08
+D4. Which of the following best describes your current employment status?,Student,0.06,0.15,0.01,0.15,0.02,0.05,0.07,0.06,0.09,0.05
+D4. Which of the following best describes your current employment status?,Retired,0.16,0,0.25,0.1,0.14,0.2,0.08,0.24,0.07,0.19
+D4. Which of the following best describes your current employment status?,Unemployed,0.07,0.08,0.07,0.08,0.05,0.09,0.08,0.07,0.08,0.07
+D4. Which of the following best describes your current employment status?,Other,0.03,0.01,0.04,0.03,0.03,0.03,0.02,0.03,0.04,0.03
+D5. In which sector have you primarily worked over the course of your career?,Technology,0.14,0.1,0.16,0.12,0.17,0.13,0.13,0.15,0.12,0.15
+D5. In which sector have you primarily worked over the course of your career?,Education,0.13,0.16,0.12,0.15,0.13,0.13,0.13,0.15,0.13,0.14
+D5. In which sector have you primarily worked over the course of your career?,"Service industry (hotels, retail, restaurants, bars)",0.11,0.23,0.04,0.18,0.1,0.1,0.12,0.1,0.17,0.09
+D5. In which sector have you primarily worked over the course of your career?,"Federal, state or local government",0.1,0.04,0.14,0.09,0.12,0.09,0.08,0.13,0.07,0.11
+D5. In which sector have you primarily worked over the course of your career?,Healthcare/Medicine,0.09,0.09,0.1,0.14,0.07,0.09,0.12,0.05,0.15,0.07
+D5. In which sector have you primarily worked over the course of your career?,Accounting and Finance,0.05,0.04,0.05,0.03,0.02,0.08,0.05,0.05,0.05,0.05
+D5. In which sector have you primarily worked over the course of your career?,Real estate,0.03,0.05,0.02,0.03,0.02,0.03,0.03,0.03,0.03,0.03
+D5. In which sector have you primarily worked over the course of your career?,"Creative (design, fashion, art, music, writing)",0.03,0.04,0.02,0.03,0.01,0.03,0.03,0.02,0.07,0.01
+D5. In which sector have you primarily worked over the course of your career?,Law/Legal Services,0.03,0.02,0.03,0.02,0.01,0.04,0.03,0.02,0.02,0.03
+D5. In which sector have you primarily worked over the course of your career?,Transportation,0.02,0.02,0.02,0.02,0.03,0.02,0.03,0.02,0.01,0.03
+D5. In which sector have you primarily worked over the course of your career?,Consulting,0.02,0,0.03,0.02,0.02,0.01,0.02,0.01,0.03,0.01
+D5. In which sector have you primarily worked over the course of your career?,Entrepreneurial/Business Owner,0.01,0,0.02,0,0.01,0.02,0.02,0.01,0.01,0.02
+D5. In which sector have you primarily worked over the course of your career?,Communications,0.01,0.01,0.01,0.03,0.01,0.01,0.02,0.01,0,0.02
+D5. In which sector have you primarily worked over the course of your career?,Energy or Utilities,0.01,0,0.02,0.01,0.02,0,0.01,0.01,0.01,0.01
+D5. In which sector have you primarily worked over the course of your career?,Entertainment/Festivals,0.01,0,0.01,0,0.01,0.01,0.01,0,0.02,0.01
+D5. In which sector have you primarily worked over the course of your career?,Farming or Agriculture,0.01,0.01,0.01,0,0.01,0.01,0.02,0,0.02,0.01
+D5. In which sector have you primarily worked over the course of your career?,Public Relations/Public Affairs,0,0,0.01,0,0,0.01,0,0.01,0,0.01
+D5. In which sector have you primarily worked over the course of your career?,None of these,0.19,0.19,0.18,0.14,0.23,0.17,0.14,0.25,0.09,0.22
+D6. Have you voted in the last 4 years?,Yes,0.73,0.52,0.84,0.57,0.81,0.74,0.75,0.71,0.75,0.72
+D6. Have you voted in the last 4 years?,No,0.27,0.48,0.15,0.42,0.19,0.24,0.25,0.28,0.24,0.27
+D6. Have you voted in the last 4 years?,Don't know,0.01,0.01,0.01,0,0,0.01,0.01,0.01,0.01,0.01
+"D7. Generally speaking, which of the following best describes your political party affiliation?",Democrat,0.45,0.41,0.47,0.38,0.46,0.47,0.57,0.33,0.63,0.39
+"D7. Generally speaking, which of the following best describes your political party affiliation?",Republican,0.29,0.26,0.31,0.33,0.32,0.25,0.2,0.38,0.15,0.33
+"D7. Generally speaking, which of the following best describes your political party affiliation?",Independent,0.08,0.05,0.09,0.05,0.09,0.08,0.07,0.08,0.05,0.08
+"D7. Generally speaking, which of the following best describes your political party affiliation?",Other/Don't know/ Prefer not to answer,0.19,0.29,0.14,0.23,0.13,0.21,0.16,0.21,0.16,0.19
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),Austin Community College,0.24,0.25,0.23,0.08,0.14,0.36,0.29,0.19,0.29,0.22
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),The University of Texas at Austin,0.16,0.17,0.16,0.13,0.12,0.21,0.23,0.1,0.26,0.14
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),St. Edwards University,0.03,0.03,0.03,0,0.02,0.04,0.04,0.02,0.04,0.02
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),Concordia University Texas,0.02,0.02,0.02,0.01,0.01,0.03,0.02,0.02,0.01,0.02
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),Acton School of Business (Hardin-Simmons University),0.01,0.01,0.01,0,0.01,0.02,0,0.02,0,0.01
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),Huston-Tillotson University,0.01,0,0.01,0,0,0.01,0.01,0.01,0,0.01
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),Texas Health and Science University,0.01,0,0.01,0,0,0.01,0,0.01,0,0.01
+D8. Did you or do you attend any of the following universities or colleges located in Austin? (Select all that apply.),None of the above,0.62,0.57,0.64,0.79,0.74,0.46,0.52,0.7,0.46,0.66
+D9. Which of the following best describes your marital status?,Married,0.48,0.25,0.61,0.41,0.54,0.48,0.36,0.6,0.26,0.55
+D9. Which of the following best describes your marital status?,"Single, never married",0.29,0.52,0.17,0.35,0.26,0.29,0.39,0.2,0.52,0.23
+D9. Which of the following best describes your marital status?,Single and living with a partner,0.11,0.2,0.06,0.17,0.07,0.11,0.14,0.08,0.13,0.1
+D9. Which of the following best describes your marital status?,Divorced,0.07,0.01,0.11,0.04,0.07,0.09,0.08,0.06,0.07,0.07
+D9. Which of the following best describes your marital status?,Widowed,0.03,0,0.04,0.01,0.05,0.03,0.01,0.05,0.01,0.03
+D9. Which of the following best describes your marital status?,Separated,0.01,0.01,0.01,0.01,0.01,0,0.01,0,0.01,0.01
+D9. Which of the following best describes your marital status?,Prefer not to answer,0.01,0.01,0.01,0.01,0.01,0,0,0.01,0,0.01
+D10. Do you own or rent your current place of residence?,Own,0.57,0.27,0.73,0.29,0.63,0.65,0.45,0.68,0.37,0.63
+D10. Do you own or rent your current place of residence?,Rent,0.41,0.68,0.27,0.68,0.35,0.33,0.53,0.3,0.62,0.35
+D10. Do you own or rent your current place of residence?,Don't know,0.01,0.03,0,0.01,0.01,0.02,0,0.02,0.01,0.01
+D10. Do you own or rent your current place of residence?,Prefer not to answer,0.01,0.02,0,0.02,0.01,0,0.01,0.01,0.01,0.01
+"D11/12. How many languages, besides English or Spanish, are spoken in your home on a daily basis?","None, just English/Spanish",0.73,0.68,0.76,0.7,0.73,0.75,0.74,0.72,0.75,0.73
+"D11/12. How many languages, besides English or Spanish, are spoken in your home on a daily basis?",1,0.2,0.23,0.19,0.19,0.2,0.21,0.2,0.21,0.19,0.21
+"D11/12. How many languages, besides English or Spanish, are spoken in your home on a daily basis?",2,0.06,0.08,0.05,0.1,0.06,0.04,0.05,0.07,0.05,0.06
+"D11/12. How many languages, besides English or Spanish, are spoken in your home on a daily basis?",3 or more,0.01,0.01,0.01,0.01,0.01,0,0.01,0,0.01,0.01
+D13. Through which method do you get the majority of your news?,Online,0.45,0.57,0.39,0.54,0.49,0.39,0.51,0.4,0.55,0.42
+D13. Through which method do you get the majority of your news?,TV,0.4,0.29,0.46,0.29,0.35,0.48,0.33,0.47,0.27,0.44
+D13. Through which method do you get the majority of your news?,Radio,0.05,0.07,0.04,0.08,0.05,0.04,0.06,0.04,0.06,0.05
+D13. Through which method do you get the majority of your news?,Print,0.05,0.01,0.07,0.03,0.05,0.06,0.05,0.05,0.07,0.04
+D13. Through which method do you get the majority of your news?,I don't keep up with news,0.04,0.07,0.03,0.07,0.05,0.03,0.04,0.05,0.05,0.04
+D13. Through which method do you get the majority of your news?,Other,0,0,0.01,0,0.01,0,0.01,0,0.01,0

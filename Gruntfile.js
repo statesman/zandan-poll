@@ -20,6 +20,15 @@ module.exports = function(grunt) {
         dest: 'public/fonts/',
         flatten: true,
         expand: true
+      },
+      select2: {
+        src: [
+          'bower_components/select2/*.png',
+          'bower_components/select2/*.gif'
+        ],
+        dest: 'public/dist/',
+        flatten: true,
+        expand: true
       }
     },
 

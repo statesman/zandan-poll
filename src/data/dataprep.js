@@ -24,8 +24,13 @@ var questionArray = _.values(groupedByQuestion);
 var formattedRows = _.map(groupedByQuestion, function(question) {
   // Get question text
   var questionParts = question[0].QuestionText.split('. '),
-      questionText = questionParts[1].trim(),
       questionId = questionParts[0].trim();
+
+  // Shift to drop the question number
+  questionParts.shift();
+
+  // Rejoin the text
+  var questionText = questionParts.join('. ').trim();
 
   // Format answers
   var answers = _.map(question, function(answer) {

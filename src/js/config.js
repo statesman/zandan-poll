@@ -1,6 +1,7 @@
 require.config({
   paths: {
     jquery: '../../bower_components/jquery/dist/jquery',
+    'jquery.select2': '../../bower_components/select2/select2',
     underscore: '../../bower_components/underscore/underscore',
     backbone: '../../bower_components/backbone/backbone',
     marionette: '../../bower_components/marionette/lib/core/backbone.marionette',
@@ -20,6 +21,12 @@ require.config({
     // backbone.radio
     'shims/marionette': {
       'marionette': 'marionette'
+    }
+  },
+  shim: {
+    'jquery.select2': {
+      deps: ['jquery'],
+      exports: 'jQuery.select2'
     }
   }
 });

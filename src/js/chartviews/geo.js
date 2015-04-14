@@ -8,7 +8,7 @@ define([
 
   return Mn.ChartView.extend({
 
-    group: ['yrs05', 'yrs620', 'yrs21'],
+    group: ['livAus', 'livCou', 'livCen'],
 
     render: function() {
       this.chart = c3.generate(_.extend({
@@ -21,7 +21,7 @@ define([
         },
         chart: {
           padding: {
-            left: 0
+            left: 25
           }
         },
         axis: {

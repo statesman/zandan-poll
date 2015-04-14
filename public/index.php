@@ -83,18 +83,20 @@
       <hr />
 
       <div class="form-group">
-        <label for="question">Question:</label>
+        <label for="question">Select a question:</label>
         <select id="toggle" class="form-control"></select>
       </div>
       <div class="row">
-        <div class="col-xs-4">
-          <div id="total"></div>
-        </div>
-        <div class="col-xs-8">
-          <ul id="answers" class="fa-ul"></ul>
+        <div class="col-xs-12" id="answers"></div>
+        <div class="col-xs-12">
+          <hr />
+          <h3>Breakdown by years lived in Austin</h3>
+          <div id="years"></div>
         </div>
         <div class="col-xs-12">
-          <div id="years"></div>
+          <hr />
+          <h3>Breakdown by geography</h3>
+          <div id="geo"></div>
         </div>
       </div>
 
@@ -105,13 +107,33 @@
       </script>
 
       <script type="text/template" id="tpl-answers">
-        <% _.each( answers, function(a){ %>
-          <li>
-            <h3><i class="fa fa-li fa-square" style="color:<%= dotColor(a.text) %>;"></i> <%= a.text %></h3>
-          </li>
-        <% }); %>
+        <h2 class="question-title"><%= question %></h2>
+        <ul class="fa-ul">
+          <% _.each( sort(answers), function(a){ %>
+            <li>
+              <h3>
+                <i class="fa fa-li fa-square" style="color:<%= dotColor(a.text) %>;"></i> <span class="value"><%= format(a.total) %></span>
+                <%= a.text %>
+                <% if (a.choice) { %><br /><small class="top-choices"><strong>Top choice of people who:</strong> <span class="top-choices"><%= a.choice %></span></small><% } %>
+              </h3>
+            </li>
+          <% }); %>
+        </ul>
       </script>
 
+      <script type="text/template" id="tpl-tooltip">
+        <div class="popover popover-static popover-chart">
+          <div class="popover-content">
+            <ul class="list-unstyled">
+              <% _.each( data, function(d){ %>
+                <li class="clearfix">
+                  <i class="fa fa-square" style="color:<%= color(d.id) %>;"></i> <%= d.name %> <span class="value pull-right"><%= format(d.value, d.ratio, d.id, d.index) %></span>
+                </li>
+              <% }); %>
+            </ul>
+          </div>
+        </div>
+      </script>
     </article>
 
     <div class="clearfix" id="ads">

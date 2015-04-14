@@ -1,8 +1,8 @@
 define([
   'marionette',
   'collections/questions',
-  'chartviews/totals',
   'chartviews/years',
+  'chartviews/geo',
   'itemviews/questiontoggle',
   'itemviews/answers',
   'lib/color',
@@ -10,8 +10,8 @@ define([
 ], function(
   Mn,
   QuestionsCollection,
-  TotalChartView,
   YearsChartView,
+  GeoChartView,
   QuestionToggleView,
   AnswersItemView,
   color,
@@ -34,10 +34,12 @@ define([
       });
 
       // Render views
+      /*
       new TotalChartView({
         el: '#total',
         collection: this.questions
       });
+      */
 
       new AnswersItemView({
         el: '#answers',
@@ -46,6 +48,11 @@ define([
 
       new YearsChartView({
         el: '#years',
+        collection: this.questions
+      });
+
+      new GeoChartView({
+        el: '#geo',
         collection: this.questions
       });
 

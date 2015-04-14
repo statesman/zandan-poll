@@ -116,7 +116,7 @@
       </script>
 
       <script type="text/template" id="tpl-answers">
-        <h2 class="question-title"><%= question %></h2>
+        <h2 class="question-title"><%= question %><% if(note) { %><br /><span class="note"><%- note %></span><% } %></h2>
         <ul class="fa-ul">
           <% _.each( sort(answers), function(a){ %>
             <li>

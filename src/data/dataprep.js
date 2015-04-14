@@ -32,7 +32,7 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
   questionParts.shift();
 
   // Rejoin the text
-  var questionText = questionParts.join('. ').trim().split(' (')[0];
+  var questionText = questionParts.join('. ');
 
   // Format answers
   var answers = _.map(question, function(answer) {
@@ -50,8 +50,14 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
     };
   });
 
+  var note = null;
+  if(question[0].Notes !== '') {
+    note = question[0].Notes;
+  }
+
   return {
     id: questionId,
+    note: note,
     question: questionText,
     answers: answers
   };

@@ -8,7 +8,7 @@ define([
 
   return Mn.ChartView.extend({
 
-    group: ['livAus', 'livCou', 'livCen'],
+    group: ['livCou', 'livAus', 'livCen'],
 
     render: function() {
       this.chart = c3.generate(_.extend({

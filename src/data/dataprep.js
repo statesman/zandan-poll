@@ -44,8 +44,8 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
       yrs05: answer['NOY - 0-5'],
       yrs620: answer['NOY - 6-20'],
       yrs21: answer['NOY - 21+'],
-      livAus: answer['Res - Yes'],
       livCou: answer['Res - No'],
+      livAus: answer['Res - Yes'],
       livCen: answer['Central - Yes']
     };
   });

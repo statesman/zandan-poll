@@ -22,6 +22,22 @@
 @import 'charts';
 @import 'controls';
 
+h3.subhed {
+  > .fa {
+    background: #6f6f6f;
+    border-radius: 50%;
+    padding: 8px;
+    color: #fff;
+    width: 41px;
+    text-align: center;
+    margin-right: 4px;
+
+    @media (max-width: @screen-xs-max) {
+      display: none;
+    }
+  }
+}
+
 // For static popovers
 .popover.popover-static {
   position: relative;

@@ -6,10 +6,10 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <?php
       $meta = array(
-        'title' => 'Search Texas government IT contractor spending',
-        'description' => 'Our database uses sales reports made by vendors to the Department of Information Resources to show how much the government agencies have paid for specific contractors since the beginning of fiscal year 2010.',
-        'thumbnail' => 'http://projects.statesman.com/news/itsac-database/assets/share.png',
-        'url' => 'http://projects.statesman.com/news/itsac-database/',
+        'title' => 'Explore the 2015 Zandan ‘Voices of the Austin Community’ poll',
+        'description' => 'See detailed breakdowns of dozens of questions, capturing Austinites’ thoughts on everything from the local economy to development to city politics.',
+        'thumbnail' => 'http://projects.statesman.com/news/zandan-poll/assets/share.jpg',
+        'url' => 'http://projects.statesman.com/news/zandan-poll/',
         'twitter' => 'statesman'
       );
     ?>
@@ -72,10 +72,11 @@
 
     <article class="container">
       <div class="header">
-        <h1>Search Texas government IT contractor spending</h1>
-        <p class="author">Interactive by Andrew Chavez, American-Statesman</p>
-        <p>An American-Statesman investigation has found that the state’s use of information technology contractors faces little to no oversight. Tens of millions have been paid to at least 3,000 contract workers working for 210 companies, all while avoiding competitive bidding and public scrutiny.</p>
-        <p>Our database uses sales reports made by vendors to the Department of Information Resources to show how much the government agencies have paid for specific contractors since the beginning of fiscal year 2010.</p>
+        <h1>Explore the 2015 Zandan ‘Voices of the Austin Community’ poll</h1>
+        <p class="author">Interactive by Andrew Chavez, American-Statesman<br />Published April 16, 2015</p>
+        <p>{{MARTY'S FINDINGS HERE}}</p>
+        <p>Peter Zandan, who has done surveying and social analytics for three decades, created the poll, for which he said he wasn't paid.</p>
+        <p>More than xxx people answered online surveys from April xx-xx. Surveys were offered in English and Spanish and respondents are from in and around Austin. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
         <?php /*<p><a href="http://projects.statesman.com/news/itsac-top-paid/">Related: See how costs for top contractors compare with top-paid state employees <i class="fa fa-angle-double-right"></i></a></p> */ ?>
       </div>
 
@@ -92,12 +93,12 @@
         <div class="col-xs-12" id="answers"></div>
         <div class="col-xs-12">
           <hr />
-          <h3><i class="fa fa-home"></i> Breakdown by years lived in Austin</h3>
+          <h3 class="subhed"><i class="fa fa-home"></i> Breakdown by years lived in Austin</h3>
           <div id="years"></div>
         </div>
         <div class="col-xs-12">
           <hr />
-          <h3><i class="fa fa-map-marker"></i> Breakdown by geography</h3>
+          <h3 class="subhed"><i class="fa fa-map-marker"></i> Breakdown by geography</h3>
           <div id="geo"></div>
         </div>
       </div>

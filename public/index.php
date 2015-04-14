@@ -72,19 +72,26 @@
 
     <article class="container">
       <div class="header">
-        <h4>Texas state government</h4>
         <h1>Search Texas government IT contractor spending</h1>
-        <p class="author">Interactive by Andrew Chavez, J. David McSwane and Andrea Ball, American-Statesman</p>
+        <p class="author">Interactive by Andrew Chavez, American-Statesman</p>
         <p>An American-Statesman investigation has found that the state’s use of information technology contractors faces little to no oversight. Tens of millions have been paid to at least 3,000 contract workers working for 210 companies, all while avoiding competitive bidding and public scrutiny.</p>
         <p>Our database uses sales reports made by vendors to the Department of Information Resources to show how much the government agencies have paid for specific contractors since the beginning of fiscal year 2010.</p>
-        <p><a href="http://projects.statesman.com/news/itsac-top-paid/">Related: See how costs for top contractors compare with top-paid state employees <i class="fa fa-angle-double-right"></i></a></p>
+        <?php /*<p><a href="http://projects.statesman.com/news/itsac-top-paid/">Related: See how costs for top contractors compare with top-paid state employees <i class="fa fa-angle-double-right"></i></a></p> */ ?>
       </div>
 
       <hr />
 
-      <div class="form-group">
-        <label for="question">Select a question:</label>
-        <select id="toggle" class="form-control"></select>
+      <div class="row controls">
+        <div class="col-xs-12 col-sm-8 col-md-9 col-lg-10 form-group">
+          <label for="question">Select a question:</label>
+          <select id="toggle" class="form-control"></select>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
+          <div class="btn-group pull-right" role="group">
+            <button type="button" class="btn btn-primary btn-sm"><i class="fa fa-chevron-left"></i> Previous</button>
+            <button type="button" class="btn btn-primary btn-sm">Next <i class="fa fa-chevron-right"></i></button>
+          </div>
+        </div>
       </div>
       <div class="row">
         <div class="col-xs-12" id="answers"></div>

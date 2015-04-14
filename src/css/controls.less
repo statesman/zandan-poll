@@ -1,0 +1,20 @@
+.controls {
+  margin-bottom: @line-height-computed;
+
+  @media (max-width: @screen-xs-max) {
+    .btn-group {
+      width: 100%;
+      .btn {
+        width: 50%;
+      }
+    }
+  }
+  .btn {
+    font-family: @font-family-sans-serif;
+    @media (min-width: @screen-sm-min) {
+      margin-top: 28px;
+    }
+    padding-top: 7px;
+    padding-bottom: 6px;
+  }
+}

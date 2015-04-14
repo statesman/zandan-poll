@@ -1,20 +1,24 @@
 define([
   'marionette',
+  'backbone',
   'collections/questions',
   'chartviews/years',
   'chartviews/geo',
   'itemviews/questiontoggle',
   'itemviews/answers',
   'lib/color',
+  'lib/router',
   'underscore'
 ], function(
   Mn,
+  Backbone,
   QuestionsCollection,
   YearsChartView,
   GeoChartView,
   QuestionToggleView,
   AnswersItemView,
   color,
+  Router,
   _
 ) {
 
@@ -25,6 +29,12 @@ define([
     // App data
     questions: new QuestionsCollection(),
 
+    onBeforeStart: function() {
+      this.radio = Mn.Radio.channel('app');
+
+      this.router = new Router();
+    },
+
     // Populate data, fill regions when the app is started
     onStart: function() {
       // Setup toggle
@@ -33,14 +43,7 @@ define([
         collection: this.questions
       });
 
-      // Render views
-      /*
-      new TotalChartView({
-        el: '#total',
-        collection: this.questions
-      });
-      */
-
+      // Render data views
       new AnswersItemView({
         el: '#answers',
         collection: this.questions
@@ -58,6 +61,11 @@ define([
 
       // When someone toggles in the UI, update charts and such
       this.listenTo(this.toggle, 'toggle', function(id) {
+        this.router.navigate('question/' + id, { trigger: true });
+      });
+
+      // Update views when router fires a toggle event
+      this.radio.comply('toggle', function(id) {
         // Pluck the new model from the collection
         var switchTo = this.questions.get(id);
 
@@ -67,13 +75,12 @@ define([
         // Fire the toggle event on the collection, which will update
         // all the views
         this.questions.trigger('toggle', switchTo);
-      });
+      }, this);
 
-      // Fetch data and when it returns go ahead and trigger the render,
-      // model-loading
+      // Fetch data and trigger routing when it's loaded
       this.questions.fetch().done(function() {
-        this.questions.trigger('toggle', this.questions.at(0));
-      }.bind(this));
+        Backbone.history.start();
+      });
     }
 
   });

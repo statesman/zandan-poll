@@ -6,6 +6,7 @@ define([
   'chartviews/geo',
   'itemviews/questiontoggle',
   'itemviews/answers',
+  'itemviews/pager',
   'lib/color',
   'lib/router',
   'underscore'
@@ -17,6 +18,7 @@ define([
   GeoChartView,
   QuestionToggleView,
   AnswersItemView,
+  PagerView,
   color,
   Router,
   _
@@ -37,9 +39,14 @@ define([
 
     // Populate data, fill regions when the app is started
     onStart: function() {
-      // Setup toggle
+      // Render controls
       this.toggle = new QuestionToggleView({
         el: '#toggle',
+        collection: this.questions
+      });
+
+      this.pager = new PagerView({
+        el: '#pager',
         collection: this.questions
       });
 
@@ -66,15 +73,22 @@ define([
 
       // Update views when router fires a toggle event
       this.radio.comply('toggle', function(id) {
-        // Pluck the new model from the collection
-        var switchTo = this.questions.get(id);
+        // Make sure the model is actually changing
+        if(typeof this._previous === 'undefined' || this._previous !== id) {
+          // Pluck the new model from the collection
+          var switchTo = this.questions.get(id);
 
-        // Reset the color scale before rendering views
-        color.reset(_.pluck(switchTo.toJSON().answers, 'text'));
+          // Reset the color scale before rendering views
+          color.reset(_.pluck(switchTo.toJSON().answers, 'text'));
 
-        // Fire the toggle event on the collection, which will update
-        // all the views
-        this.questions.trigger('toggle', switchTo);
+          // Fire the toggle event on the collection, which will update
+          // all the views
+          this.questions.trigger('toggle', switchTo);
+
+          // Store this so we can ensure there has actually been a change
+          // before redrawing everything
+          this._previous = switchTo.id;
+        }
       }, this);
 
       // Fetch data and trigger routing when it's loaded

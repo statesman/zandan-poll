@@ -5,7 +5,8 @@ define(['marionette', 'jquery', 'jquery.select2'], function(Mn, $) {
   return Mn.ItemView.extend({
 
     collectionEvents: {
-      'sync': 'render'
+      'sync': 'render',
+      'toggle': 'route'
     },
 
     events: {
@@ -14,6 +15,14 @@ define(['marionette', 'jquery', 'jquery.select2'], function(Mn, $) {
 
     toggle: function() {
       this.triggerMethod('toggle', this.$el.val());
+    },
+
+    // When a toggle event is fired on the collection, update the select2
+    // box if it doesn't match (like when a route has triggered the toggle)
+    route: function(model) {
+      if(this.$el.val !== model.id) {
+        this.$el.val(model.id).trigger('change');
+      }
     },
 
     onRender: function(){

@@ -86,12 +86,7 @@
           <label for="question">Select a question:</label>
           <select id="toggle" class="form-control"></select>
         </div>
-        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
-          <div class="btn-group pull-right" role="group">
-            <button type="button" class="btn btn-primary btn-sm"><i class="fa fa-chevron-left"></i> Previous</button>
-            <button type="button" class="btn btn-primary btn-sm">Next <i class="fa fa-chevron-right"></i></button>
-          </div>
-        </div>
+        <div id="pager" class="col-xs-12 col-sm-4 col-md-3 col-lg-2"></div>
       </div>
       <div class="row">
         <div class="col-xs-12" id="answers"></div>
@@ -111,6 +106,13 @@
         <% _.each( items, function(q){ %>
           <option value="<%= q.id %>"><%= q.question %></option>
         <% }); %>
+      </script>
+
+      <script type="text/template" id="tpl-pager">
+        <div class="btn-group pull-right" role="group">
+          <a href="<%= previous %>" class="btn btn-primary btn-sm<% if(previous === false) { %> disabled<% } %>"><i class="fa fa-chevron-left"></i> Previous</a>
+          <a href="<%= next %>" class="btn btn-primary btn-sm<% if(next === false) { %> disabled<% } %>">Next <i class="fa fa-chevron-right"></i></a>
+        </div>
       </script>
 
       <script type="text/template" id="tpl-answers">

@@ -1,8 +1,9 @@
 .question-title {
   font-size: 24px;
-  line-height: 32px;
-  font-weight: 900;
+  line-height: 34px;
+  font-weight: 700;
   margin-top: 10px;
+  font-style: normal;
 
   @media (max-width: @screen-xs-max) {
     font-size: 20px;
@@ -41,6 +42,26 @@
 
       .label {
         font-size: 80%;
+
+        &.yrs05 {
+          background: lighten(@gray, 10%);
+        }
+        &.yrs620 {
+          background: @gray;
+        }
+        &.yrs21 {
+          background: darken(@gray, 12%);
+        }
+
+        &.livCen {
+          background: saturate(darken(@brand-primary, 10%), 10%);
+        }
+        &.livAus {
+          background: @brand-primary;
+        }
+        &.livCou {
+          background: lighten(@brand-primary, 10%);
+        }
       }
     }
   }

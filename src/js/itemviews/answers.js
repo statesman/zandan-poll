@@ -11,12 +11,12 @@ define(['marionette', 'd3', 'underscore', 'lib/color'], function(Mn, d3, _, colo
     // Augment answers with a badge if an answer is the top choice for a group
     addChoices: function(data) {
       var titles = {
-        yrs05: 'Have lived in Austin <5 years',
-        yrs620: 'Have lived in Austin 6-20 years',
-        yrs21: 'Have lived in Austin 21+ years',
-        livAus: 'Live in Austin',
-        livCou: 'Live outside Austin',
-        livCen: 'Live in central Austin'
+        yrs05: '<i class="fa fa-home"></i> Have lived in Austin <5 years',
+        yrs620: '<i class="fa fa-home"></i> Have lived in Austin 6-20 years',
+        yrs21: '<i class="fa fa-home"></i> Have lived in Austin 21+ years',
+        livAus: '<i class="fa fa-map-marker"></i> Live in Austin',
+        livCou: '<i class="fa fa-map-marker"></i> Live outside Austin',
+        livCen: '<i class="fa fa-map-marker"></i> Live in central Austin'
       };
 
       /* ~ Get the top choice for each age group ~ */
@@ -60,7 +60,7 @@ define(['marionette', 'd3', 'underscore', 'lib/color'], function(Mn, d3, _, colo
             return pair[1] !== null;
           })
           .map(function(d) {
-            return '<span class="label label-default">' + titles[d[0]] + '</span>';
+            return '<span class="label label-default ' + d[0] + '">' + titles[d[0]] + '</span>';
           })
           .value();
       });

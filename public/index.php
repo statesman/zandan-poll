@@ -92,12 +92,12 @@
         <div class="col-xs-12" id="answers"></div>
         <div class="col-xs-12">
           <hr />
-          <h3>Breakdown by years lived in Austin</h3>
+          <h3><i class="fa fa-home"></i> Breakdown by years lived in Austin</h3>
           <div id="years"></div>
         </div>
         <div class="col-xs-12">
           <hr />
-          <h3>Breakdown by geography</h3>
+          <h3><i class="fa fa-map-marker"></i> Breakdown by geography</h3>
           <div id="geo"></div>
         </div>
       </div>

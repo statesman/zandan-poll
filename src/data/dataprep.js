@@ -32,7 +32,7 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
   questionParts.shift();
 
   // Rejoin the text
-  var questionText = questionParts.join('. ').trim();
+  var questionText = questionParts.join('. ').trim().split(' (')[0];
 
   // Format answers
   var answers = _.map(question, function(answer) {

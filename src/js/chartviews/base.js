@@ -17,6 +17,8 @@ define(['marionette', 'underscore'], function(Mn, _) {
        livAus: 'In Austin',
        livCou: 'Outside Austin',
        livCen: 'Central Austin',
+       age18: 'Age 18-34',
+       age35: 'Age 35+',
        total: 'Total'
      },
 

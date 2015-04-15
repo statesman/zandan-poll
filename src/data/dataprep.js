@@ -36,8 +36,6 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
 
   // Format answers
   var answers = _.map(question, function(answer) {
-    delete answer.questionText;
-
     return {
       text: answer['Values Text'].toString().trim(),
       total: answer.Total,
@@ -46,7 +44,9 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
       yrs21: answer['NOY - 21+'],
       livCou: answer['Res - No'],
       livAus: answer['Res - Yes'],
-      livCen: answer['Central - Yes']
+      livCen: answer['Central - Yes'],
+      age18: answer['Age - 18-34\n(Millennial)'],
+      age35: answer['Age - 35+\n(Non-Millennial)']
     };
   });
 
@@ -65,7 +65,7 @@ var formattedRows = _.map(filteredByQuestionType, function(question) {
 
 // Write the JSON file
 fs.writeFileSync(
-  __dirname + '../../../public/data/questions.json',
+  __dirname + '/../../public/data/questions.json',
   JSON.stringify(formattedRows),
   { encoding: 'utf8' }
 );

@@ -4,6 +4,7 @@ define([
   'collections/questions',
   'chartviews/years',
   'chartviews/geo',
+  'chartviews/age',
   'itemviews/questiontoggle',
   'itemviews/answers',
   'itemviews/pager',
@@ -16,6 +17,7 @@ define([
   QuestionsCollection,
   YearsChartView,
   GeoChartView,
+  AgeChartView,
   QuestionToggleView,
   AnswersItemView,
   PagerView,
@@ -63,6 +65,11 @@ define([
 
       new GeoChartView({
         el: '#geo',
+        collection: this.questions
+      });
+
+      new AgeChartView({
+        el: '#age',
         collection: this.questions
       });
 

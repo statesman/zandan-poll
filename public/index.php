@@ -101,6 +101,11 @@
           <h3 class="subhed"><i class="fa fa-map-marker"></i> Breakdown by geography</h3>
           <div id="geo"></div>
         </div>
+        <div class="col-xs-12">
+          <hr />
+          <h3 class="subhed"><i class="fa fa-user"></i> Breakdown by age</h3>
+          <div id="age"></div>
+        </div>
       </div>
 
       <script type="text/template" id="tpl-toggle">

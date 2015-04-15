@@ -74,9 +74,8 @@
       <div class="header">
         <h1>Explore the 2015 Zandan ‘Voices of the Austin Community’ poll</h1>
         <p class="author">Interactive by Andrew Chavez, American-Statesman<br />Published April 16, 2015</p>
-        <p>{{MARTY'S FINDINGS HERE}}</p>
-        <p>Peter Zandan, who has done surveying and social analytics for three decades, created the poll, for which he said he wasn't paid.</p>
-        <p>More than xxx people answered online surveys from April xx-xx. Surveys were offered in English and Spanish and respondents are from in and around Austin. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
+        <p>The Zandan Poll surveys Austin-area residents to try to assess their attitudes and behaviors on the economy, growth, culture, community, health and transportation. Peter Zandan, who has done surveying and social analytics for three decades, created the poll, for which he said he wasn't paid.</p>
+        <p>More than 800 people answered online surveys in early March for the poll. Surveys were offered in English and Spanish and respondents are from in and around Austin. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
         <?php /*<p><a href="http://projects.statesman.com/news/itsac-top-paid/">Related: See how costs for top contractors compare with top-paid state employees <i class="fa fa-angle-double-right"></i></a></p> */ ?>
       </div>
 

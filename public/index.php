@@ -8,7 +8,7 @@
       $meta = array(
         'title' => 'Explore the 2015 Zandan ‘Voices of the Austin Community’ poll',
         'description' => 'See detailed breakdowns of dozens of questions, capturing Austinites’ thoughts on everything from the local economy to development to city politics.',
-        'thumbnail' => 'http://projects.statesman.com/news/zandan-poll/assets/share.jpg',
+        'thumbnail' => 'http://projects.statesman.com/news/zandan-poll/assets/share.JPG',
         'url' => 'http://projects.statesman.com/news/zandan-poll/',
         'twitter' => 'statesman'
       );

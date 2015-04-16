@@ -135,5 +135,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-ftpush');
 
   grunt.registerTask('default', ['jshint', 'clean', 'copy', 'less', 'requirejs']);
+  grunt.registerTask('stage', ['default','ftpush:stage']);
+  grunt.registerTask('prod', ['default','ftpush:prod']);
 
 };

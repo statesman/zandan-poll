@@ -76,7 +76,7 @@
         <p class="author">Interactive by Andrew Chavez, American-Statesman<br />Published April 16, 2015</p>
         <p>The Zandan Poll surveys Austin-area residents to try to assess their attitudes and behaviors on the economy, growth, culture, community, health and transportation. Peter Zandan, who has done surveying and social analytics for three decades, created the poll, for which he said he wasn't paid.</p>
         <p>More than 800 people answered online surveys in early March for the poll. Surveys were offered in English and Spanish and respondents were from Travis, Williamson, Hays, Bastrop and Caldwell counties, in amounts that are representative of their population. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
-        <!-- <p><a href="http://projects.statesman.com/news/itsac-top-paid/">Related: See how costs for top contractors compare with top-paid state employees <i class="fa fa-angle-double-right"></i></a></p> -->
+        <p><a href="http://www.mystatesman.com/news/news/poll-suggests-peoples-view-of-austin-differs-from-/nkwt5/" target="_blank">Related: Poll suggests people’s view of Austin differs from city in notable ways <i class="fa fa-angle-double-right"></i></a></p>
       </div>
 
       <hr />

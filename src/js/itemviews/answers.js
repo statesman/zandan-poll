@@ -17,8 +17,8 @@ define(['marionette', 'd3', 'underscore', 'lib/color'], function(Mn, d3, _, colo
         livAus: '<i class="fa fa-map-marker"></i> Live in Austin',
         livCou: '<i class="fa fa-map-marker"></i> Live outside Austin',
         livCen: '<i class="fa fa-map-marker"></i> Live in central Austin',
-        age18: '<i class="fa fa-user"></i> Millenials',
-        age35: '<i class="fa fa-user"></i> Non-millenials'
+        age18: '<i class="fa fa-user"></i> Millennials',
+        age35: '<i class="fa fa-user"></i> Non-millennials'
       };
 
       /* ~ Get the top choice for each age group ~ */

@@ -6,9 +6,15 @@ The C3 charts are rendered using a special view class, [ChartView](src/js/chartv
 Views, the router and the Marionette [Application](src/js/lib/app.js) communicate with [Backbone.Radio](https://github.com/marionettejs/backbone.radio) (shimmed [here](https://github.com/statesman/zandan-poll/blob/master/src/js/shims/marionette.js)).
 
 ### Mobile & social considerations
-- the graphic is built using our responsive Bootstrap template, which is responsive
+- the graphic is built using our responsive Bootstrap template
 - all charts resize to fit on mobile and column charts convert to bar charts on small screens
 - the included router allows for deep-linking on social, which aims to increase shareability
 
+### Getting started
+* `npm install`
+* `bower install`
+* `grunt data`
+* `grunt`
+
 ### Copyright
-&copy; 2015 Austin American-Statesman
+&copy; 2017 Austin American-Statesman

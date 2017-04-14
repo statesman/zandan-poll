@@ -72,6 +72,15 @@ module.exports = function(grunt) {
       }
     },
 
+    // turn a google doc of archieML into JSON
+    // code for this task lives in tasks/google_archie.js
+    data: {
+      options:  {
+        csvPath: '/ZandanPoll2017_StatesmanData_v1.csv',
+        jsonPath: '/../../public/data/questions.json'
+      }
+    },
+
     // Watch for changes in LESS and JavaScript files,
     // relint/retranspile when a file changes
     watch: {
@@ -133,6 +142,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-requirejs');
   grunt.loadNpmTasks('grunt-ftpush');
+  grunt.loadTasks('src/data/');
 
   grunt.registerTask('default', ['jshint', 'clean', 'copy', 'less', 'requirejs']);
   grunt.registerTask('stage', ['default','ftpush:stage']);

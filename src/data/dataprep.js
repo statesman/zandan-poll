@@ -3,7 +3,7 @@ var Baby = require('babyparse'),
     _ = require('underscore');
 
 
-var csv = fs.readFileSync(__dirname + '/ZandanPoll2015_StatesmanData_v1.csv', {
+var csv = fs.readFileSync(__dirname + '/ZandanPoll2017_StatesmanData_v1.csv', {
     encoding: 'utf8'
   });
 var parsed = Baby.parse(csv, {
@@ -12,11 +12,11 @@ var parsed = Baby.parse(csv, {
 });
 
 var noBlanks = _.filter(parsed.data, function(row) {
-  return row.QuestionText !== '';
+  return row['Q#'] !== '';
 });
 
 var groupedByQuestion = _.groupBy(noBlanks, function(row) {
-  return row.QuestionText.split('. ')[0].trim();
+  return row.Question.trim();
 });
 
 var filteredByQuestionType = _.filter(groupedByQuestion, function(question, id) {
@@ -25,39 +25,27 @@ var filteredByQuestionType = _.filter(groupedByQuestion, function(question, id) 
 
 var formattedRows = _.map(filteredByQuestionType, function(question) {
   // Get question text
-  var questionParts = question[0].QuestionText.split('. '),
-      questionId = questionParts[0].trim();
-
-  // Shift to drop the question number
-  questionParts.shift();
-
-  // Rejoin the text
-  var questionText = questionParts.join('. ');
+  var questionText = question[0]['Question'],
+      questionId = question[0]['Q#'];
 
   // Format answers
   var answers = _.map(question, function(answer) {
     return {
-      text: answer['Values Text'].toString().trim(),
-      total: answer.Total,
-      yrs05: answer['NOY - 0-5'],
-      yrs620: answer['NOY - 6-20'],
-      yrs21: answer['NOY - 21+'],
-      livCou: answer['Res - No'],
-      livAus: answer['Res - Yes'],
+      text: answer['Answer Choice'].toString().trim(),
+      total: answer['Total 2017'],
+      yrs05: answer['0-5 Years in Austin'],
+      yrs620: answer['6-20 Years in Austin'],
+      yrs21: answer['21+ Years in Austin'],
+      livCou: answer['Not CoA Resident'],
+      livAus: answer['CoA Resident'],
       livCen: answer['Central - Yes'],
-      age18: answer['Age - 18-34\n(Millennial)'],
-      age35: answer['Age - 35+\n(Non-Millennial)']
+      age18: answer['Age 18-34'],
+      age35: answer['Age 35+']
     };
   });
 
-  var note = null;
-  if(question[0].Notes !== '') {
-    note = question[0].Notes;
-  }
-
   return {
     id: questionId,
-    note: note,
     question: questionText,
     answers: answers
   };

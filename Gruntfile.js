@@ -108,24 +108,24 @@ module.exports = function(grunt) {
     ftpush: {
       stage: {
         auth: {
-          host: 'host.coxmediagroup.com',
+          host: 'cmgdtcpxahost.cmg.int',
           port: 21,
           authKey: 'cmg'
         },
         src: 'public',
-        dest: '/stage_aas/projects/news/zandan-poll',
+        dest: '/stage_aas/projects/news/zandan-poll-2017',
         exclusions: ['dist/tmp','Thumbs.db'],
         simple: true,
         useList: false
       },
       prod: {
         auth: {
-          host: 'host.coxmediagroup.com',
+          host: 'cmgdtcpxahost.cmg.int',
           port: 21,
           authKey: 'cmg'
         },
         src: 'public',
-        dest: '/prod_aas/projects/news/zandan-poll',
+        dest: '/prod_aas/projects/news/zandan-poll-2017',
         exclusions: ['dist/tmp','Thumbs.db'],
         simple: true,
         useList: false

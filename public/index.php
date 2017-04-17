@@ -6,11 +6,11 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <?php
       $meta = array(
-        'title' => 'Explore the 2015 Zandan ‘Voices of the Austin Community’ poll',
+        'title' => 'Explore the 2017 Zandan ‘Voices of the Austin Community’ poll',
         'description' => 'See detailed breakdowns of dozens of questions, capturing Austinites’ thoughts on everything from the local economy to development to city politics.',
-        'thumbnail' => 'http://projects.statesman.com/news/zandan-poll/assets/share.JPG',
-        'url' => 'http://projects.statesman.com/news/zandan-poll/',
-        'twitter' => 'statesman'
+        'thumbnail' => 'http://projects.statesman.com/news/zandan-poll-2017/assets/share-fb.jpg',
+        'url' => 'http://projects.statesman.com/news/zandan-poll-2017/',
+        'twitter' => 'aasinteractive'
       );
     ?>
 
@@ -21,6 +21,11 @@
 
     <meta name="description" content="<?php print $meta['description']; ?>">
 
+    <meta property='og:locale' content='en_US' />
+    <meta property='og:site_name' content='Austin American-Statesman' />
+    <meta property='fb:app_id' content='135078579956731' />
+    <meta property='og:type' content='article' />
+    <meta property='article:publisher' content='https://www.facebook.com/statesman' />
     <meta property="og:title" content="<?php print $meta['title']; ?>"/>
     <meta property="og:description" content="<?php print $meta['description']; ?>"/>
     <meta property="og:image" content="<?php print $meta['thumbnail']; ?>"/>
@@ -32,7 +37,7 @@
     <meta name="twitter:description" content="<?php print $meta['description']; ?>" />
     <meta name="twitter:creator:id" content="15464292" />
     <meta name="twitter:creator:id" content="16235644" />
-    <meta name="twitter:image:src" content="<?php print $meta['thumbnail']; ?>" />
+    <meta name="twitter:image:src" content="/" />
     <meta name="twitter:url" content="<?php print $meta['url']; ?>" />
 
     <link href="dist/style.css" rel="stylesheet">
@@ -72,11 +77,11 @@
 
     <article class="container">
       <div class="header">
-        <h1>Explore the 2015 Zandan ‘Voices of the Austin Community’ poll</h1>
-        <p class="author">Interactive by Andrew Chavez, American-Statesman<br />Published April 16, 2015</p>
+        <h1>Explore the 2017 Zandan ‘Voices of the Austin Community’ poll</h1>
+        <p class="author">Interactive by <a href="https://twitter.com/aasinteractive" class="author">Statesman Interactives</a><br />Published April 16, 2015</p>
         <p>The Zandan Poll surveys Austin-area residents to try to assess their attitudes and behaviors on the economy, growth, culture, community, health and transportation. Peter Zandan, who has done surveying and social analytics for three decades, created the poll, for which he said he wasn't paid.</p>
-        <p>More than 800 people answered online surveys in early March for the poll. Surveys were offered in English and Spanish and respondents were from Travis, Williamson, Hays, Bastrop and Caldwell counties, in amounts that are representative of their population. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
-        <p><a href="http://www.mystatesman.com/news/news/poll-suggests-peoples-view-of-austin-differs-from-/nkwt5/" target="_blank">Related: Poll suggests people’s view of Austin differs from city in notable ways <i class="fa fa-angle-double-right"></i></a></p>
+        <p>UPDATE: More than 800 people answered online surveys in early March for the poll. Surveys were offered in English and Spanish and respondents were from Travis, Williamson, Hays, Bastrop and Caldwell counties, in amounts that are representative of their population. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
+        <p>Read more: <a href="http://www.mystatesman.com/news/news/poll-suggests-peoples-view-of-austin-differs-from-/nkwt5/" target="_blank">Poll suggests people’s view of Austin differs from city in notable ways <i class="fa fa-angle-double-right"></i></a></p>
       </div>
 
       <hr />
@@ -115,8 +120,8 @@
 
       <script type="text/template" id="tpl-pager">
         <div class="btn-group pull-right" role="group">
-          <a href="<%= previous %>" class="btn btn-primary btn-sm<% if(previous === false) { %> disabled<% } %>"><i class="fa fa-chevron-left"></i> Previous</a>
-          <a href="<%= next %>" class="btn btn-primary btn-sm<% if(next === false) { %> disabled<% } %>">Next <i class="fa fa-chevron-right"></i></a>
+          <a href="<%= previous %>" class="btn btn-primary btn-sm<% if(previous === false) { %> disabled<% } %>"><i class="fa fa-chevron-left"></i>Previous</a>
+          <a href="<%= next %>" class="btn btn-primary btn-sm<% if(next === false) { %> disabled<% } %>">Next<i class="fa fa-chevron-right"></i></a>
         </div>
       </script>
 

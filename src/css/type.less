@@ -37,6 +37,10 @@ h6 {
 a {
   font-family: @font-family-sans-serif;
   font-weight: 700;
+  text-decoration: underline;
+  &.author {
+    font-family: @font-family-serif-2;
+  }
 }
 
 span > a {
@@ -68,3 +72,6 @@ hr {
   margin-top: @line-height-computed * 1.5;
   margin-bottom: @line-height-computed * 1.5;
 }
+
+.fa-chevron-left { margin-right: 5px; }
+.fa-chevron-right { margin-left: 5px; }

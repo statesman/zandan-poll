@@ -2,5 +2,5 @@
   var projectSite = "statesman";
   var projectChannel = "news";
   var projectCategory = "local";
-  var projectSubCategory = ""; // name for specific project
+  var projectSubCategory = "zandan-poll-2017"; // name for specific project
 </script>

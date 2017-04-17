@@ -4,7 +4,7 @@ if (projectCategory == "") {
 	projectHier3 = projectChannel
 }
 else if (projectSubCategory == "" && projectCategory != "") {
-	projectHier3 = projectChannel + "|" + projectCategory 
+	projectHier3 = projectChannel + "|" + projectCategory
 }
 else {
 	projectHier3 = projectChannel + "|" + projectCategory + "|" + projectSubCategory
@@ -14,7 +14,7 @@ else {
 <!-- SiteCatalyst code version: H.25.5.
 Copyright 1996-2013 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://media.cmgdigital.com/shared/news/documents/2013/08/07/sitecatalyst_statesmanv25.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://media.cmgdigital.com/shared/news/documents/2013/08/07/sitecatalyst_statesmanv25.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 
 /* You may give each page an identifying name, server, and channel on
@@ -73,7 +73,7 @@ s.eVar63=document.location.href
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://coxnet.112.2o7.net/b/ss/coxstatesman/1/H.25.5--NS/0"
+//--></script><noscript><img src="https://coxnet.112.2o7.net/b/ss/coxstatesman/1/H.25.5--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.25.5. -->
 
@@ -83,7 +83,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 </script>
 <noscript>
 <div style="display: none;">
-    <img src="http://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
+    <img src="https://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
 

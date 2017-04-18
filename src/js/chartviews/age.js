@@ -31,6 +31,7 @@ define([
           },
           y: {
             tick: {
+              count: this.$el.width() < 450 ? 4 : undefined,
               format: d3.format('%')
             }
           }

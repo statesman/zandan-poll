@@ -13,6 +13,8 @@ define(['marionette', 'jquery', 'jquery.select2'], function(Mn, $) {
       'change': 'toggle'
     },
 
+    wasToggled: false,
+
     toggle: function() {
       this.triggerMethod('toggle', this.$el.val());
     },
@@ -22,6 +24,7 @@ define(['marionette', 'jquery', 'jquery.select2'], function(Mn, $) {
     route: function(model) {
       if(this.$el.val !== model.id) {
         this.$el.val(model.id).trigger('change');
+        this.fireGoogleEvents();
       }
     },
 
@@ -30,6 +33,28 @@ define(['marionette', 'jquery', 'jquery.select2'], function(Mn, $) {
       this.$el.select2({
         placeholder: 'Select a question'
       });
+    },
+
+    fireGoogleEvents: function() {
+      // Fire each toggle
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'Zandan poll 2017',
+        eventAction: 'toggle component',
+        eventLabel: 'total toggles'
+      });
+
+      if (!this.wasToggled) {
+        // Only fire if hasn't been fired before
+        ga('send', {
+          hitType: 'event',
+          eventCategory: 'Zandan poll 2017',
+          eventAction: 'toggle component',
+          eventLabel: 'was toggled'
+        });
+
+        this.wasToggled = true;
+      }
     },
 
     template: '#tpl-toggle'

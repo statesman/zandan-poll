@@ -7,7 +7,7 @@
     <?php
       $meta = array(
         'title' => 'Explore the 2017 Zandan ‘Voices of the Austin Community’ poll',
-        'description' => 'See detailed breakdowns of dozens of questions, capturing Austinites’ thoughts on everything from the local economy to development to city politics.',
+        'description' => 'Most people surveyed said Austin’s biggest problem is traffic.',
         'thumbnail' => 'http://projects.statesman.com/news/zandan-poll-2017/assets/share-fb.jpg',
         'url' => 'http://projects.statesman.com/news/zandan-poll-2017/',
         'twitter' => 'aasinteractive'
@@ -75,10 +75,10 @@
     <article class="container">
       <div class="header">
         <h1>Explore the 2017 Zandan ‘Voices of the Austin Community’ poll</h1>
-        <p class="author">Interactive by <a href="https://twitter.com/aasinteractive" class="author">Statesman Interactives</a><br />Published April 16, 2015</p>
-        <p>The Zandan Poll surveys Austin-area residents to try to assess their attitudes and behaviors on the economy, growth, culture, community, health and transportation. Peter Zandan, who has done surveying and social analytics for three decades, created the poll, for which he said he wasn't paid.</p>
-        <p>UPDATE: More than 800 people answered online surveys in early March for the poll. Surveys were offered in English and Spanish and respondents were from Travis, Williamson, Hays, Bastrop and Caldwell counties, in amounts that are representative of their population. The results were weighted, as such polls often are, to ensure the voices who shaped the survey match the Census Bureau's data on the makeup of the Austin area.</p>
-        <p>Read more: <a href="http://www.mystatesman.com/news/news/poll-suggests-peoples-view-of-austin-differs-from-/nkwt5/" target="_blank">Poll suggests people’s view of Austin differs from city in notable ways <i class="fa fa-angle-double-right"></i></a></p>
+        <p class="author">Interactive by <a href="https://twitter.com/aasinteractive" class="author">Statesman Interactives</a><br />Published April 20, 2017</p>
+        <p>Transportation and affordability, as they were in a similar 2015 survey by pollster Peter Zandan, remain the <a href="http://projects.statesman.com/news/zandan-poll-2017/#question/Q2">greatest concerns</a> of the 800-plus people who were interviewed online in March.</p>
+        <p>The Zandan Poll surveys Austin-area residents to try to assess their attitudes and behaviors on the economy, growth, culture, community, health and transportation. Peter Zandan, global vice-chair at Hill+Knowlton Strategies, has conducted five such Austin-area polls at his own expense since 1997.</p>
+        <!-- <p>Read more: <a href="http://www.mystatesman.com/news/news/poll-suggests-peoples-view-of-austin-differs-from-/nkwt5/" target="_blank">Poll suggests people’s view of Austin differs from city in notable ways <i class="fa fa-angle-double-right"></i></a></p> -->
       </div>
 
       <hr />

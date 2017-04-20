@@ -37,7 +37,7 @@
     <meta name="twitter:description" content="<?php print $meta['description']; ?>" />
     <meta name="twitter:creator:id" content="15464292" />
     <meta name="twitter:creator:id" content="16235644" />
-    <meta name="twitter:image:src" content="/" />
+    <meta name="twitter:image:src" content="http://projects.statesman.com/news/zandan-poll-2017/assets/share-tw.png" />
     <meta name="twitter:url" content="<?php print $meta['url']; ?>" />
 
     <link href="dist/style.css" rel="stylesheet">

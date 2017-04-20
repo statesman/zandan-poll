@@ -6,7 +6,7 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <?php
       $meta = array(
-        'title' => 'Explore the 2017 Zandan ‘Voices of the Austin Community’ poll results',
+        'title' => 'Explore the 2017 Zandan Poll results',
         'description' => 'Most people surveyed said Austin’s biggest problem is traffic.',
         'thumbnail' => 'http://projects.statesman.com/news/zandan-poll-2017/assets/share-fb.jpg',
         'url' => 'http://projects.statesman.com/news/zandan-poll-2017/',
@@ -78,7 +78,7 @@
         <p class="author">Interactive by <a href="https://twitter.com/aasinteractive" class="author">Statesman Interactives</a><br />Published April 20, 2017</p>
         <p>Transportation and affordability, as they were in a <a href="http://projects.statesman.com/news/zandan-poll/#question/Q1">similar 2015 survey</a> by pollster Peter Zandan, remain the <a href="http://projects.statesman.com/news/zandan-poll-2017/#question/Q2">greatest concerns</a> of the 800-plus people who were interviewed for an online survey in March.</p>
         <p>The Zandan Poll asks Austin-area residents to to assess their attitudes and behaviors on the economy, growth, culture, community, health and transportation. Peter Zandan, global vice-chair at Hill+Knowlton Strategies, has conducted five such Austin-area polls at his own expense since 1997.</p>
-        <!-- <p>Read more: <a href="http://www.mystatesman.com/news/news/poll-suggests-peoples-view-of-austin-differs-from-/nkwt5/" target="_blank">Poll suggests people’s view of Austin differs from city in notable ways<i class="fa fa-angle-double-right"></i></a></p> -->
+        <p>Read more: <a href="http://www.mystatesman.com/news/local/traffic-and-tacos-polls-gauges-austin-attitudes/MPEDw2Nc7USYAjmSh58ckK/" target="_blank">Traffic and tacos: Polls gauges Austin attitudes<i class="fa fa-angle-double-right"></i></a></p>
       </div>
 
       <hr />

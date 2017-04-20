@@ -371,7 +371,7 @@ S3,What is your zip code?,Central Austin,813,0.18,,0.19,0.17,0.29,0,0.19,0.18,0.
 S4,Do you live in the City of Austin?,Yes,813,0.6,,0.7,0.52,1,,0.68,0.56,0.56
 S4,Do you live in the City of Austin?,No,813,0.4,,0.3,0.48,,1,0.32,0.44,0.44
 S5,"How long, in years, have you lived in the Austin area? If you have moved away and returned to Austin, please estimate how many years in total you’ve lived in the Austin area.",0-5,813,0.28,,0.4,0.19,0.32,0.22,1,,
-S5,"How long, in years, have you lived in the Austin area? If you have moved away and returned to Austin, please estimate how many years in total you’ve lived in the Austin area.",06/20/17,813,0.38,,0.4,0.37,0.36,0.41,,1,
+S5,"How long, in years, have you lived in the Austin area? If you have moved away and returned to Austin, please estimate how many years in total you’ve lived in the Austin area.",6-20,813,0.38,,0.4,0.37,0.36,0.41,,1,
 S5,"How long, in years, have you lived in the Austin area? If you have moved away and returned to Austin, please estimate how many years in total you’ve lived in the Austin area.",21,813,0.34,,0.19,0.44,0.32,0.37,,,1
 S6,What is your gender?,Female,813,0.5,,0.56,0.46,0.45,0.57,0.53,0.49,0.48
 S6,What is your gender?,Male,813,0.5,,0.44,0.54,0.55,0.43,0.47,0.51,0.52

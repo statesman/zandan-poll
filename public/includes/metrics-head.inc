@@ -88,7 +88,7 @@ DDO.connextActive = function(){
       siteMetro: 'tx: austin',
       siteMedium: 'newspaper',
       siteType: 'main: premium',
-      siteCMS: 'methode'
+      siteCMS: 'external vendor'
   };
     // PAGE DATA
   var isDwp = false;
@@ -114,7 +114,7 @@ DDO.connextActive = function(){
     DDO.pageData.pageName = trimPageNameUrl;
   }
 
-  DDO.pageData.pageTitle = '';
+  DDO.pageData.pageTitle = 'Interactive: <?php print $meta['title']; ?>';
   DDO.pageData.pageSiteSection = (isHome) ? 'home' : 'News';
 
   if (DDO.pageData.pageContentType == '') {
@@ -165,17 +165,19 @@ DDO.connextActive = function(){
 
   }
 
+  DDO.pageData.pageName = location.pathname;
+
   // CONTENT DATA (contentViewType is set in access meter metrics)
   DDO.contentData = DDO.contentData || {};
-  var contentTopics ='';
+  var contentTopics ='local news,transportation,statesman,politics,Growing Austin,aasinteractive';
 
   DDO.contentData.contentTopics = contentTopics;
-  var contentByline = '';
+  var contentByline = 'dan hill';
 
   DDO.contentData.contentByline = contentByline;
   DDO.contentData.contentOriginatingSite =  'mystatesman';
   DDO.contentData.contentID = '9eaaf9b4-6b31-11e7-830e-a5e8bea39109';
-  DDO.contentData.contentVendor = '';
+  DDO.contentData.contentVendor = 'projects server';
   DDO.contentData.contentViewType = DDO.contentData.contentViewType || '';
   DDO.contentData.contentPublishDate = '20170717205000';
   DDO.contentData.contentUpdatedDate = '';
@@ -189,7 +191,7 @@ DDO.connextActive = function(){
   }
 
   //We need to set this one only for imported stories.
-  DDO.contentData.contentOriginatingCMS='Methode';
+  DDO.contentData.contentOriginatingCMS='external server';
   DDO.contentData.contentOriginatingID='9eaaf9b4-6b31-11e7-830e-a5e8bea39109';
   DDO.contentData.melvilID='';
 

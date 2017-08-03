@@ -95,6 +95,10 @@ define([
           // Store this so we can ensure there has actually been a change
           // before redrawing everything
           this._previous = switchTo.id;
+
+          // Fire metrics and meter
+          DDO.action ("interaction.bigJPageView");
+          membercenter.sdk.updateConnext();
         }
       }, this);
 

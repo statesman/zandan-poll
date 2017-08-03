@@ -88,7 +88,7 @@ DDO.connextActive = function(){
       siteType: 'main: premium',
       siteCMS: 'external vendor'
   };
-    // PAGE DATA
+  // PAGE DATA
   var isDwp = false;
   console.log("isDwp: ", isDwp);
   var isHome = isDwp && false;
@@ -102,66 +102,17 @@ DDO.connextActive = function(){
     pageType : 'standalone page',
     pageIsDwp: isDwp // Necessary for bookmarklet purposes.
   };
-  if(isDwp) {
-      DDO.pageData.pageContentType = (isHome) ? 'homepage' : 'section front';
-    DDO.pageData.pageMainSection = (isHome) ? '/'+'homepage' : '/bigj-metro-state-flatpage/';
-    DDO.pageData.pageName = (isHome) ? '/' + 'homepage' + '/' : '/bigj-metro-state-flatpage/';
-  } else {
-      DDO.pageData.pageContentType = 'flat page';
-    DDO.pageData.pageMainSection ='/metro-state';
-    DDO.pageData.pageName = trimPageNameUrl;
-  }
+
+  DDO.pageData.pageContentType = 'flat page';
+  DDO.pageData.pageMainSection ='/metro-state';
+  DDO.pageData.pageName = trimPageNameUrl;
 
   DDO.pageData.pageTitle = 'Interactive: <?php print $meta['title']; ?>';
   DDO.pageData.pageSiteSection = (isHome) ? 'home' : 'News';
 
-  if (DDO.pageData.pageContentType == '') {
-    var pageName = DDO.pageData.pageName;
-    var pageNameSplit = pageName.split('/');
-    DDO.pageData.pageContentType = pageNameSplit[1];
-  }
-
   DDO.pageData.pageCategory = 'Local';
-  if (DDO.pageData.pageCategory == 'Error') {
-    DDO.pageData.pageContentType = "Page not found";
-  }
   DDO.pageData.pageSubCategory = '';
 
-  if(DDO.pageData.pageContentType =='404'){
-    DDO.pageData.pageType="errorpage";
-    DDO.pageData.pageTitle="page not found";
-    DDO.pageData.pageContentType = "404 page";
-    URLArray = window.location.href.split('/');
-    DDO.pageData.pageName = '/404_page/'+URLArray[URLArray.length-1];
-  }
-
-  if(DDO.pageData.pageContentType == 'weather'){
-    DDO.pageData.pageCategory = 'weather';
-    DDO.pageData.pageTitle = 'weather';
-  }
-
-  if(DDO.pageData.pageContentType == 'search'){
-    var aMetricsSiteSearchType, aMetricsSearchTerms, aMetricsNumResults;
-    DDO.pageData.pageName = "/search-results/";
-    DDO.pageData.pageTitle = "search results";
-    DDO.pageData.pageMainSection = "/search";
-    DDO.pageData.pageContentType = "search";
-    DDO.pageData.pageSiteSection = "search";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  }
 
   DDO.pageData.pageName = location.pathname;
 
@@ -182,11 +133,6 @@ DDO.connextActive = function(){
   DDO.contentData.blogName = '';
   DDO.contentData.galleryName = '';
   var pageSubContentType = '';
-  if(pageSubContentType == 'Post') {
-    DDO.contentData.blogName = '';
-  }else if(DDO.pageData.pageContentType == 'gallery') {
-    DDO.contentData.galleryName = '';
-  }
 
   //We need to set this one only for imported stories.
   DDO.contentData.contentOriginatingCMS='external server';

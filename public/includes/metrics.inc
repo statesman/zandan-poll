@@ -86,23 +86,3 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <img src="https://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
-
-<!--  Chartbeat code -->
-
-<script type="text/javascript">
-  var chartbeatdomain = projectSite + '.com'
-  var _sf_async_config = { uid: 31585, domain: chartbeatdomain, useCanonical: true };
-  (function() {
-    function loadChartbeat() {
-      window._sf_endpt = (new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-     document.body.appendChild(e);
-    };
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-      loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
-</script>

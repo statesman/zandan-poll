@@ -1,4 +1,4 @@
-<!-- Quantcast Tag, part 1 --> 
+<!-- Quantcast Tag, part 1 -->
 <script type="text/javascript">
   var _qevents = _qevents || [];
   (function() {
@@ -8,9 +8,6 @@
    elem.async = true;
    elem.type = "text/javascript";
    var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem, scpt);  
+   scpt.parentNode.insertBefore(elem, scpt);
   })();
 </script>
-
-<!-- chartbeat head -->
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>

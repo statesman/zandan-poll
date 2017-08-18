@@ -604,7 +604,7 @@ DDO.videoMetrics = {
 <!-- end cmg_topics_metatag_override block -->
 <!-- Meter switched to ConneXt -->
 <!-- begin cmg_meter_metatag_override block -->
-<meta name="cmg:meter" content="true">
+<meta name="cmg:meter" content="false">
 <!-- end cmg_meter_metatag_override block -->
 <!-- begin cmg_max_meter_temporary_metatag_override block -->
 <meta name="cmg:maxMeterTemporary" content="5">

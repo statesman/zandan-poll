@@ -103,7 +103,7 @@ DDO.connextActive = function(){
     pageIsDwp: isDwp // Necessary for bookmarklet purposes.
   };
 
-  DDO.pageData.pageContentType = 'flat page';
+  DDO.pageData.pageContentType = 'article';
   DDO.pageData.pageMainSection ='/metro-state';
   DDO.pageData.pageName = trimPageNameUrl;
 
@@ -114,7 +114,7 @@ DDO.connextActive = function(){
   DDO.pageData.pageSubCategory = '';
 
 
-  DDO.pageData.pageName = location.pathname;
+  DDO.pageData.pageName = location.pathname + location.hash;
 
   // CONTENT DATA (contentViewType is set in access meter metrics)
   DDO.contentData = DDO.contentData || {};

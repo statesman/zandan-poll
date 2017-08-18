@@ -33,6 +33,8 @@ define([
     // App data
     questions: new QuestionsCollection(),
 
+    updatedConnextUrl: false,
+
     onBeforeStart: function() {
       this.radio = Mn.Radio.channel('app');
 
@@ -95,6 +97,20 @@ define([
           // Store this so we can ensure there has actually been a change
           // before redrawing everything
           this._previous = switchTo.id;
+
+          // Update metrics page name
+          DDO.pageData.pageName = location.pathName + location.hash;
+          DDO.pageData.pageTitle = 'Interactive: Explore the 2017 Zandan Poll results ' + id;
+
+          // Update metrics URL function once
+          if (!this.updatedConnextUrl) {
+            window.Connext.Utils.GetUrl = function () {return window.location.href;};
+            this.updatedConnextUrl = true;
+          }
+
+          // Fire metrics and ConneXt
+          DDO.action("interaction.bigJPageView");
+          membercenter.sdk.updateConnext();
         }
       }, this);
 

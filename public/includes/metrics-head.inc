@@ -79,13 +79,13 @@ DDO.connextActive = function(){
 <script>
 //  SITE DATA
   DDO.siteData = {
-    siteID: 'mystatesman',
-      siteDomain: 'mystatesman.com',
+    siteID: 'statesman',
+      siteDomain: 'statesman.com',
       siteVersion: 'responsive site',
       siteFormat: 'newspaper',
       siteMetro: 'tx: austin',
       siteMedium: 'newspaper',
-      siteType: 'main: premium',
+      siteType: 'main: free',
       siteCMS: 'external vendor'
   };
   // PAGE DATA
@@ -124,7 +124,7 @@ DDO.connextActive = function(){
   var contentByline = 'dan hill';
 
   DDO.contentData.contentByline = contentByline;
-  DDO.contentData.contentOriginatingSite =  'mystatesman';
+  DDO.contentData.contentOriginatingSite =  'statesman';
   DDO.contentData.contentID = '9eaaf9b4-6b31-11e7-830e-a5e8bea39109';
   DDO.contentData.contentVendor = 'projects server';
   DDO.contentData.contentViewType = DDO.contentData.contentViewType || '';
